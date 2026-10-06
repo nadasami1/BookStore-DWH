@@ -105,4 +105,4 @@ BookStore-DWH/
 
 ## Author
 
-Your Name · [GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Nada Sami · [GitHub](https://github.com/nadasami1) · [LinkedIn](https://www.linkedin.com/in/nada-salem02/)
