@@ -1,0 +1,1001 @@
+BookID,CategoryID,Title,ISBN,Year,Price,NoPages,BookDescription
+1,17,Chemistry Today 1,978-977-687-980-2,2001,72.66,725,This is a fascinating book about chemistry in daily life
+2,3,Islamic Studies 2,978-977-645-938-8,2004,80.34,630,This is a fascinating book about religious studies and traditions
+3,13,Egyptian Law 3,978-977-727-860-1,2011,132.41,277,This is a fascinating book about legal system in Egypt
+4,20,Sports in Egypt 4,978-977-181-749-5,2020,102.01,538,This is a fascinating book about sports and athletics in Egypt
+5,18,Geography of Egypt 5,978-977-128-830-1,2010,165.12,586,This is a fascinating book about geography of the Arab world
+6,6,Philosophy Thoughts 6,978-977-787-936-5,2023,72.5,959,This is a fascinating book about philosophical thinking in Arabic culture
+7,18,Geography of Egypt 7,978-977-970-643-5,2022,95.98,392,This is a fascinating book about geography of the Arab world
+8,15,Mathematics Basics 8,978-977-728-823-3,2002,63.45,431,This is a fascinating book about mathematical concepts
+9,12,Medical Guide 9,978-977-349-722-6,2003,214.61,236,This is a fascinating book about medical advancements in Egypt
+10,8,Economy of Egypt 10,978-977-948-618-3,2022,62.55,675,This is a fascinating book about economic development in Egypt
+11,6,Philosophy Thoughts 11,978-977-564-742-1,2000,114.72,429,This is a fascinating book about philosophical thinking in Arabic culture
+12,2,History of Egypt 12,978-977-189-369-6,2003,114.63,633,This is a fascinating book about ancient and modern Egyptian history
+13,20,Sports in Egypt 13,978-977-973-147-6,2009,236.18,635,This is a fascinating book about sports and athletics in Egypt
+14,14,Agriculture Guide 14,978-977-613-854-1,2003,238.51,858,This is a fascinating book about agriculture in the Nile Valley
+15,17,Chemistry Today 15,978-977-433-168-6,2007,62.94,410,This is a fascinating book about chemistry in daily life
+16,13,Egyptian Law 16,978-977-929-433-1,2004,196.57,252,This is a fascinating book about legal system in Egypt
+17,6,Philosophy Thoughts 17,978-977-213-432-2,2008,128.61,904,This is a fascinating book about philosophical thinking in Arabic culture
+18,19,Travel Egypt 18,978-977-797-938-1,2017,66.18,905,This is a fascinating book about travel destinations in Egypt
+19,13,Egyptian Law 19,978-977-633-459-6,2022,146.71,109,This is a fascinating book about legal system in Egypt
+20,15,Mathematics Basics 20,978-977-701-998-5,2009,237.34,770,This is a fascinating book about mathematical concepts
+21,16,Physics Explained 21,978-977-774-353-2,2010,184.17,259,This is a fascinating book about physics and astronomy
+22,11,Engineering Principles 22,978-977-569-396-4,2011,74.05,599,This is a fascinating book about modern engineering in Egypt
+23,12,Medical Guide 23,978-977-593-550-9,2014,203.41,474,This is a fascinating book about medical advancements in Egypt
+24,20,Sports in Egypt 24,978-977-765-787-3,2002,247.44,142,This is a fascinating book about sports and athletics in Egypt
+25,6,Philosophy Thoughts 25,978-977-145-167-2,2023,195.55,745,This is a fascinating book about philosophical thinking in Arabic culture
+26,6,Philosophy Thoughts 26,978-977-530-894-7,2004,181.39,605,This is a fascinating book about philosophical thinking in Arabic culture
+27,3,Islamic Studies 27,978-977-989-933-3,2009,76.78,491,This is a fascinating book about religious studies and traditions
+28,12,Medical Guide 28,978-977-462-888-8,2009,96.21,550,This is a fascinating book about medical advancements in Egypt
+29,13,Egyptian Law 29,978-977-178-594-5,2007,62.51,392,This is a fascinating book about legal system in Egypt
+30,15,Mathematics Basics 30,978-977-347-171-9,2018,207.25,298,This is a fascinating book about mathematical concepts
+31,17,Chemistry Today 31,978-977-223-878-7,2018,240.33,704,This is a fascinating book about chemistry in daily life
+32,15,Mathematics Basics 32,978-977-697-608-9,2020,161.45,740,This is a fascinating book about mathematical concepts
+33,13,Egyptian Law 33,978-977-729-910-4,2018,116.23,374,This is a fascinating book about legal system in Egypt
+34,9,Political Analysis 34,978-977-259-902-6,2009,62.0,889,This is a fascinating book about political landscape of the Middle East
+35,13,Egyptian Law 35,978-977-639-782-1,2007,146.61,696,This is a fascinating book about legal system in Egypt
+36,5,Children Stories 36,978-977-816-459-3,2010,197.14,139,This is a fascinating book about children education and entertainment
+37,18,Geography of Egypt 37,978-977-945-403-9,2010,65.77,100,This is a fascinating book about geography of the Arab world
+38,6,Philosophy Thoughts 38,978-977-417-357-4,2016,104.28,430,This is a fascinating book about philosophical thinking in Arabic culture
+39,19,Travel Egypt 39,978-977-771-492-2,2004,200.01,565,This is a fascinating book about travel destinations in Egypt
+40,20,Sports in Egypt 40,978-977-634-687-6,2016,146.27,969,This is a fascinating book about sports and athletics in Egypt
+41,1,The Literature Book 41,978-977-127-124-7,2000,141.64,266,This is a fascinating book about Egyptian literature and culture
+42,20,Sports in Egypt 42,978-977-114-544-3,2009,226.48,771,This is a fascinating book about sports and athletics in Egypt
+43,19,Travel Egypt 43,978-977-508-535-9,2002,116.23,814,This is a fascinating book about travel destinations in Egypt
+44,19,Travel Egypt 44,978-977-443-306-2,2011,93.13,621,This is a fascinating book about travel destinations in Egypt
+45,9,Political Analysis 45,978-977-348-392-5,2011,170.78,145,This is a fascinating book about political landscape of the Middle East
+46,13,Egyptian Law 46,978-977-871-363-2,2001,83.22,383,This is a fascinating book about legal system in Egypt
+47,18,Geography of Egypt 47,978-977-595-984-6,2009,95.83,860,This is a fascinating book about geography of the Arab world
+48,6,Philosophy Thoughts 48,978-977-670-971-8,2021,90.11,584,This is a fascinating book about philosophical thinking in Arabic culture
+49,14,Agriculture Guide 49,978-977-243-174-8,2000,237.53,512,This is a fascinating book about agriculture in the Nile Valley
+50,11,Engineering Principles 50,978-977-922-259-6,2005,121.44,814,This is a fascinating book about modern engineering in Egypt
+51,5,Children Stories 51,978-977-321-989-5,2008,106.86,559,This is a fascinating book about children education and entertainment
+52,6,Philosophy Thoughts 52,978-977-639-115-9,2019,147.19,687,This is a fascinating book about philosophical thinking in Arabic culture
+53,4,Science & Nature 53,978-977-230-546-2,2023,60.45,884,This is a fascinating book about scientific discoveries in Egypt
+54,5,Children Stories 54,978-977-303-807-3,2020,84.5,928,This is a fascinating book about children education and entertainment
+55,8,Economy of Egypt 55,978-977-233-643-9,2023,238.3,741,This is a fascinating book about economic development in Egypt
+56,2,History of Egypt 56,978-977-979-110-7,2008,162.42,728,This is a fascinating book about ancient and modern Egyptian history
+57,2,History of Egypt 57,978-977-189-993-9,2021,140.97,957,This is a fascinating book about ancient and modern Egyptian history
+58,3,Islamic Studies 58,978-977-648-204-4,2017,231.34,358,This is a fascinating book about religious studies and traditions
+59,12,Medical Guide 59,978-977-832-641-1,2016,80.92,246,This is a fascinating book about medical advancements in Egypt
+60,16,Physics Explained 60,978-977-627-275-3,2014,71.49,943,This is a fascinating book about physics and astronomy
+61,7,Egyptian Art 61,978-977-875-915-3,2008,112.13,623,This is a fascinating book about Egyptian art through the ages
+62,10,Health & Wellness 62,978-977-910-295-2,2014,84.49,436,This is a fascinating book about healthcare in Egyptian society
+63,7,Egyptian Art 63,978-977-627-595-2,2013,141.12,624,This is a fascinating book about Egyptian art through the ages
+64,9,Political Analysis 64,978-977-121-199-9,2007,183.33,465,This is a fascinating book about political landscape of the Middle East
+65,17,Chemistry Today 65,978-977-433-161-9,2017,160.5,323,This is a fascinating book about chemistry in daily life
+66,10,Health & Wellness 66,978-977-522-741-6,2009,167.64,721,This is a fascinating book about healthcare in Egyptian society
+67,19,Travel Egypt 67,978-977-151-527-2,2013,55.29,524,This is a fascinating book about travel destinations in Egypt
+68,17,Chemistry Today 68,978-977-924-194-5,2022,206.01,642,This is a fascinating book about chemistry in daily life
+69,18,Geography of Egypt 69,978-977-257-968-4,2013,153.27,736,This is a fascinating book about geography of the Arab world
+70,12,Medical Guide 70,978-977-166-860-9,2008,135.13,534,This is a fascinating book about medical advancements in Egypt
+71,5,Children Stories 71,978-977-158-238-4,2011,86.5,326,This is a fascinating book about children education and entertainment
+72,15,Mathematics Basics 72,978-977-216-889-5,2012,143.79,130,This is a fascinating book about mathematical concepts
+73,7,Egyptian Art 73,978-977-851-386-2,2005,204.1,162,This is a fascinating book about Egyptian art through the ages
+74,6,Philosophy Thoughts 74,978-977-314-374-9,2019,172.32,432,This is a fascinating book about philosophical thinking in Arabic culture
+75,20,Sports in Egypt 75,978-977-930-141-2,2022,154.27,885,This is a fascinating book about sports and athletics in Egypt
+76,16,Physics Explained 76,978-977-669-121-9,2000,90.52,251,This is a fascinating book about physics and astronomy
+77,18,Geography of Egypt 77,978-977-357-870-9,2012,61.77,500,This is a fascinating book about geography of the Arab world
+78,9,Political Analysis 78,978-977-790-872-7,2018,166.26,322,This is a fascinating book about political landscape of the Middle East
+79,10,Health & Wellness 79,978-977-930-615-7,2018,182.33,156,This is a fascinating book about healthcare in Egyptian society
+80,3,Islamic Studies 80,978-977-357-596-7,2008,117.92,830,This is a fascinating book about religious studies and traditions
+81,10,Health & Wellness 81,978-977-659-269-5,2005,223.52,315,This is a fascinating book about healthcare in Egyptian society
+82,11,Engineering Principles 82,978-977-271-871-4,2017,95.97,126,This is a fascinating book about modern engineering in Egypt
+83,20,Sports in Egypt 83,978-977-251-778-6,2000,125.49,921,This is a fascinating book about sports and athletics in Egypt
+84,8,Economy of Egypt 84,978-977-965-433-4,2014,225.47,985,This is a fascinating book about economic development in Egypt
+85,11,Engineering Principles 85,978-977-503-376-3,2011,169.02,343,This is a fascinating book about modern engineering in Egypt
+86,5,Children Stories 86,978-977-307-692-4,2001,192.31,220,This is a fascinating book about children education and entertainment
+87,3,Islamic Studies 87,978-977-537-941-1,2006,150.25,435,This is a fascinating book about religious studies and traditions
+88,14,Agriculture Guide 88,978-977-769-616-4,2020,183.78,115,This is a fascinating book about agriculture in the Nile Valley
+89,10,Health & Wellness 89,978-977-188-624-2,2021,81.47,775,This is a fascinating book about healthcare in Egyptian society
+90,15,Mathematics Basics 90,978-977-257-368-9,2016,180.87,690,This is a fascinating book about mathematical concepts
+91,7,Egyptian Art 91,978-977-643-628-3,2017,176.48,284,This is a fascinating book about Egyptian art through the ages
+92,2,History of Egypt 92,978-977-220-534-9,2020,168.26,880,This is a fascinating book about ancient and modern Egyptian history
+93,1,The Literature Book 93,978-977-327-520-7,2004,202.8,492,This is a fascinating book about Egyptian literature and culture
+94,3,Islamic Studies 94,978-977-324-468-6,2018,85.78,434,This is a fascinating book about religious studies and traditions
+95,3,Islamic Studies 95,978-977-522-660-2,2017,222.28,631,This is a fascinating book about religious studies and traditions
+96,3,Islamic Studies 96,978-977-464-698-8,2018,171.87,977,This is a fascinating book about religious studies and traditions
+97,11,Engineering Principles 97,978-977-774-542-6,2023,83.87,541,This is a fascinating book about modern engineering in Egypt
+98,15,Mathematics Basics 98,978-977-412-314-1,2015,246.81,444,This is a fascinating book about mathematical concepts
+99,12,Medical Guide 99,978-977-377-575-6,2000,224.99,627,This is a fascinating book about medical advancements in Egypt
+100,17,Chemistry Today 100,978-977-743-562-5,2023,126.84,403,This is a fascinating book about chemistry in daily life
+101,3,Islamic Studies 101,978-977-306-219-9,2006,141.82,686,This is a fascinating book about religious studies and traditions
+102,20,Sports in Egypt 102,978-977-740-479-5,2006,227.13,273,This is a fascinating book about sports and athletics in Egypt
+103,9,Political Analysis 103,978-977-636-135-8,2017,67.22,266,This is a fascinating book about political landscape of the Middle East
+104,12,Medical Guide 104,978-977-175-964-1,2006,173.39,671,This is a fascinating book about medical advancements in Egypt
+105,6,Philosophy Thoughts 105,978-977-368-942-3,2004,232.06,753,This is a fascinating book about philosophical thinking in Arabic culture
+106,14,Agriculture Guide 106,978-977-745-943-5,2007,140.96,158,This is a fascinating book about agriculture in the Nile Valley
+107,8,Economy of Egypt 107,978-977-396-215-1,2017,123.53,307,This is a fascinating book about economic development in Egypt
+108,16,Physics Explained 108,978-977-440-660-8,2023,66.24,868,This is a fascinating book about physics and astronomy
+109,10,Health & Wellness 109,978-977-302-987-8,2011,120.8,903,This is a fascinating book about healthcare in Egyptian society
+110,20,Sports in Egypt 110,978-977-721-416-1,2013,87.63,617,This is a fascinating book about sports and athletics in Egypt
+111,9,Political Analysis 111,978-977-560-446-2,2014,209.87,683,This is a fascinating book about political landscape of the Middle East
+112,13,Egyptian Law 112,978-977-797-195-8,2021,97.85,461,This is a fascinating book about legal system in Egypt
+113,12,Medical Guide 113,978-977-422-536-8,2006,102.99,405,This is a fascinating book about medical advancements in Egypt
+114,19,Travel Egypt 114,978-977-319-770-4,2009,164.82,261,This is a fascinating book about travel destinations in Egypt
+115,14,Agriculture Guide 115,978-977-862-510-6,2020,178.84,162,This is a fascinating book about agriculture in the Nile Valley
+116,8,Economy of Egypt 116,978-977-899-245-4,2020,247.88,485,This is a fascinating book about economic development in Egypt
+117,6,Philosophy Thoughts 117,978-977-978-683-7,2000,85.95,233,This is a fascinating book about philosophical thinking in Arabic culture
+118,18,Geography of Egypt 118,978-977-167-318-3,2020,62.77,880,This is a fascinating book about geography of the Arab world
+119,12,Medical Guide 119,978-977-423-875-5,2001,151.13,816,This is a fascinating book about medical advancements in Egypt
+120,15,Mathematics Basics 120,978-977-956-865-8,2023,183.66,725,This is a fascinating book about mathematical concepts
+121,3,Islamic Studies 121,978-977-989-859-4,2014,152.74,403,This is a fascinating book about religious studies and traditions
+122,15,Mathematics Basics 122,978-977-169-301-6,2003,69.72,121,This is a fascinating book about mathematical concepts
+123,12,Medical Guide 123,978-977-707-946-5,2020,79.64,856,This is a fascinating book about medical advancements in Egypt
+124,20,Sports in Egypt 124,978-977-191-134-7,2015,139.26,880,This is a fascinating book about sports and athletics in Egypt
+125,16,Physics Explained 125,978-977-334-407-3,2005,146.21,816,This is a fascinating book about physics and astronomy
+126,15,Mathematics Basics 126,978-977-164-125-5,2004,139.84,428,This is a fascinating book about mathematical concepts
+127,20,Sports in Egypt 127,978-977-709-943-4,2021,108.62,431,This is a fascinating book about sports and athletics in Egypt
+128,1,The Literature Book 128,978-977-614-521-8,2017,94.73,702,This is a fascinating book about Egyptian literature and culture
+129,4,Science & Nature 129,978-977-359-548-7,2001,200.64,385,This is a fascinating book about scientific discoveries in Egypt
+130,11,Engineering Principles 130,978-977-235-704-9,2003,121.41,100,This is a fascinating book about modern engineering in Egypt
+131,20,Sports in Egypt 131,978-977-873-447-3,2008,157.55,197,This is a fascinating book about sports and athletics in Egypt
+132,2,History of Egypt 132,978-977-871-991-5,2016,221.69,373,This is a fascinating book about ancient and modern Egyptian history
+133,2,History of Egypt 133,978-977-309-614-6,2016,240.19,349,This is a fascinating book about ancient and modern Egyptian history
+134,2,History of Egypt 134,978-977-404-148-2,2012,114.43,502,This is a fascinating book about ancient and modern Egyptian history
+135,7,Egyptian Art 135,978-977-807-996-7,2023,81.29,145,This is a fascinating book about Egyptian art through the ages
+136,11,Engineering Principles 136,978-977-891-450-7,2000,64.57,812,This is a fascinating book about modern engineering in Egypt
+137,17,Chemistry Today 137,978-977-108-697-2,2012,110.1,933,This is a fascinating book about chemistry in daily life
+138,5,Children Stories 138,978-977-998-543-8,2012,221.92,184,This is a fascinating book about children education and entertainment
+139,19,Travel Egypt 139,978-977-845-195-4,2013,106.94,110,This is a fascinating book about travel destinations in Egypt
+140,7,Egyptian Art 140,978-977-696-569-7,2007,174.01,553,This is a fascinating book about Egyptian art through the ages
+141,5,Children Stories 141,978-977-198-771-1,2020,140.89,969,This is a fascinating book about children education and entertainment
+142,6,Philosophy Thoughts 142,978-977-883-127-1,2001,56.89,638,This is a fascinating book about philosophical thinking in Arabic culture
+143,6,Philosophy Thoughts 143,978-977-919-176-4,2023,72.98,100,This is a fascinating book about philosophical thinking in Arabic culture
+144,14,Agriculture Guide 144,978-977-871-604-7,2000,111.9,524,This is a fascinating book about agriculture in the Nile Valley
+145,9,Political Analysis 145,978-977-979-794-5,2003,69.03,907,This is a fascinating book about political landscape of the Middle East
+146,13,Egyptian Law 146,978-977-562-527-1,2001,215.92,499,This is a fascinating book about legal system in Egypt
+147,2,History of Egypt 147,978-977-236-186-9,2008,177.18,575,This is a fascinating book about ancient and modern Egyptian history
+148,2,History of Egypt 148,978-977-532-334-4,2004,241.66,608,This is a fascinating book about ancient and modern Egyptian history
+149,3,Islamic Studies 149,978-977-194-805-5,2020,209.72,967,This is a fascinating book about religious studies and traditions
+150,17,Chemistry Today 150,978-977-715-700-6,2010,213.11,628,This is a fascinating book about chemistry in daily life
+151,4,Science & Nature 151,978-977-438-263-2,2005,226.05,515,This is a fascinating book about scientific discoveries in Egypt
+152,9,Political Analysis 152,978-977-758-523-7,2011,63.89,999,This is a fascinating book about political landscape of the Middle East
+153,18,Geography of Egypt 153,978-977-690-927-8,2019,92.66,421,This is a fascinating book about geography of the Arab world
+154,18,Geography of Egypt 154,978-977-320-530-9,2013,146.97,448,This is a fascinating book about geography of the Arab world
+155,4,Science & Nature 155,978-977-759-329-4,2022,116.62,594,This is a fascinating book about scientific discoveries in Egypt
+156,3,Islamic Studies 156,978-977-363-683-5,2008,204.33,749,This is a fascinating book about religious studies and traditions
+157,7,Egyptian Art 157,978-977-507-218-3,2016,246.43,616,This is a fascinating book about Egyptian art through the ages
+158,6,Philosophy Thoughts 158,978-977-635-203-2,2000,118.43,616,This is a fascinating book about philosophical thinking in Arabic culture
+159,11,Engineering Principles 159,978-977-980-971-9,2017,170.35,929,This is a fascinating book about modern engineering in Egypt
+160,3,Islamic Studies 160,978-977-155-739-2,2011,97.07,820,This is a fascinating book about religious studies and traditions
+161,17,Chemistry Today 161,978-977-889-285-2,2007,109.19,664,This is a fascinating book about chemistry in daily life
+162,6,Philosophy Thoughts 162,978-977-732-642-1,2015,76.84,958,This is a fascinating book about philosophical thinking in Arabic culture
+163,16,Physics Explained 163,978-977-682-718-2,2010,193.4,317,This is a fascinating book about physics and astronomy
+164,6,Philosophy Thoughts 164,978-977-604-729-3,2016,91.14,574,This is a fascinating book about philosophical thinking in Arabic culture
+165,1,The Literature Book 165,978-977-187-388-7,2008,69.55,895,This is a fascinating book about Egyptian literature and culture
+166,7,Egyptian Art 166,978-977-557-119-6,2012,192.62,561,This is a fascinating book about Egyptian art through the ages
+167,7,Egyptian Art 167,978-977-396-489-2,2021,56.81,962,This is a fascinating book about Egyptian art through the ages
+168,5,Children Stories 168,978-977-597-838-9,2022,62.42,436,This is a fascinating book about children education and entertainment
+169,8,Economy of Egypt 169,978-977-504-354-5,2004,116.7,239,This is a fascinating book about economic development in Egypt
+170,11,Engineering Principles 170,978-977-437-915-1,2007,105.05,677,This is a fascinating book about modern engineering in Egypt
+171,15,Mathematics Basics 171,978-977-505-554-6,2013,201.72,552,This is a fascinating book about mathematical concepts
+172,2,History of Egypt 172,978-977-165-301-1,2013,103.8,177,This is a fascinating book about ancient and modern Egyptian history
+173,9,Political Analysis 173,978-977-255-369-4,2011,65.65,576,This is a fascinating book about political landscape of the Middle East
+174,9,Political Analysis 174,978-977-992-127-8,2008,141.85,793,This is a fascinating book about political landscape of the Middle East
+175,18,Geography of Egypt 175,978-977-145-279-5,2009,150.13,776,This is a fascinating book about geography of the Arab world
+176,13,Egyptian Law 176,978-977-831-517-1,2004,75.79,118,This is a fascinating book about legal system in Egypt
+177,18,Geography of Egypt 177,978-977-455-116-6,2001,131.35,882,This is a fascinating book about geography of the Arab world
+178,20,Sports in Egypt 178,978-977-203-173-4,2011,186.24,759,This is a fascinating book about sports and athletics in Egypt
+179,7,Egyptian Art 179,978-977-462-432-6,2015,174.38,258,This is a fascinating book about Egyptian art through the ages
+180,20,Sports in Egypt 180,978-977-743-233-7,2023,136.21,315,This is a fascinating book about sports and athletics in Egypt
+181,20,Sports in Egypt 181,978-977-675-357-3,2010,120.56,469,This is a fascinating book about sports and athletics in Egypt
+182,3,Islamic Studies 182,978-977-196-602-2,2014,204.96,791,This is a fascinating book about religious studies and traditions
+183,8,Economy of Egypt 183,978-977-628-988-8,2006,126.36,444,This is a fascinating book about economic development in Egypt
+184,3,Islamic Studies 184,978-977-281-865-3,2003,218.95,232,This is a fascinating book about religious studies and traditions
+185,5,Children Stories 185,978-977-756-393-9,2009,134.78,949,This is a fascinating book about children education and entertainment
+186,9,Political Analysis 186,978-977-595-206-5,2007,233.84,636,This is a fascinating book about political landscape of the Middle East
+187,13,Egyptian Law 187,978-977-861-676-6,2016,125.22,101,This is a fascinating book about legal system in Egypt
+188,17,Chemistry Today 188,978-977-257-458-7,2017,105.53,320,This is a fascinating book about chemistry in daily life
+189,1,The Literature Book 189,978-977-279-576-4,2005,187.35,148,This is a fascinating book about Egyptian literature and culture
+190,6,Philosophy Thoughts 190,978-977-378-484-5,2004,99.3,866,This is a fascinating book about philosophical thinking in Arabic culture
+191,5,Children Stories 191,978-977-361-780-9,2019,226.32,168,This is a fascinating book about children education and entertainment
+192,1,The Literature Book 192,978-977-487-896-7,2007,62.03,210,This is a fascinating book about Egyptian literature and culture
+193,11,Engineering Principles 193,978-977-352-568-7,2003,142.88,316,This is a fascinating book about modern engineering in Egypt
+194,2,History of Egypt 194,978-977-697-178-5,2007,185.69,136,This is a fascinating book about ancient and modern Egyptian history
+195,17,Chemistry Today 195,978-977-547-611-2,2020,153.66,674,This is a fascinating book about chemistry in daily life
+196,11,Engineering Principles 196,978-977-549-151-7,2004,82.73,151,This is a fascinating book about modern engineering in Egypt
+197,19,Travel Egypt 197,978-977-647-426-1,2012,220.79,984,This is a fascinating book about travel destinations in Egypt
+198,11,Engineering Principles 198,978-977-633-398-3,2023,180.7,142,This is a fascinating book about modern engineering in Egypt
+199,6,Philosophy Thoughts 199,978-977-789-156-5,2006,121.89,592,This is a fascinating book about philosophical thinking in Arabic culture
+200,2,History of Egypt 200,978-977-547-747-8,2002,230.67,652,This is a fascinating book about ancient and modern Egyptian history
+201,10,Health & Wellness 201,978-977-795-886-9,2012,50.2,531,This is a fascinating book about healthcare in Egyptian society
+202,14,Agriculture Guide 202,978-977-864-929-5,2014,214.72,671,This is a fascinating book about agriculture in the Nile Valley
+203,12,Medical Guide 203,978-977-265-535-3,2013,202.04,737,This is a fascinating book about medical advancements in Egypt
+204,3,Islamic Studies 204,978-977-534-571-2,2004,124.94,733,This is a fascinating book about religious studies and traditions
+205,11,Engineering Principles 205,978-977-755-232-4,2020,56.5,592,This is a fascinating book about modern engineering in Egypt
+206,14,Agriculture Guide 206,978-977-989-687-2,2018,148.94,682,This is a fascinating book about agriculture in the Nile Valley
+207,13,Egyptian Law 207,978-977-455-160-6,2015,88.92,273,This is a fascinating book about legal system in Egypt
+208,10,Health & Wellness 208,978-977-424-641-3,2017,57.13,800,This is a fascinating book about healthcare in Egyptian society
+209,16,Physics Explained 209,978-977-313-172-1,2019,151.17,182,This is a fascinating book about physics and astronomy
+210,11,Engineering Principles 210,978-977-524-722-9,2002,208.67,247,This is a fascinating book about modern engineering in Egypt
+211,19,Travel Egypt 211,978-977-774-369-7,2016,92.17,482,This is a fascinating book about travel destinations in Egypt
+212,5,Children Stories 212,978-977-702-927-7,2016,219.1,920,This is a fascinating book about children education and entertainment
+213,14,Agriculture Guide 213,978-977-875-991-9,2003,206.95,760,This is a fascinating book about agriculture in the Nile Valley
+214,5,Children Stories 214,978-977-808-519-1,2022,67.39,993,This is a fascinating book about children education and entertainment
+215,9,Political Analysis 215,978-977-306-673-5,2001,152.98,730,This is a fascinating book about political landscape of the Middle East
+216,2,History of Egypt 216,978-977-526-856-3,2016,87.98,303,This is a fascinating book about ancient and modern Egyptian history
+217,18,Geography of Egypt 217,978-977-997-893-6,2007,78.51,964,This is a fascinating book about geography of the Arab world
+218,13,Egyptian Law 218,978-977-651-548-4,2020,215.86,523,This is a fascinating book about legal system in Egypt
+219,16,Physics Explained 219,978-977-964-767-9,2016,237.76,683,This is a fascinating book about physics and astronomy
+220,1,The Literature Book 220,978-977-287-104-7,2005,168.73,994,This is a fascinating book about Egyptian literature and culture
+221,12,Medical Guide 221,978-977-476-904-9,2018,142.79,692,This is a fascinating book about medical advancements in Egypt
+222,5,Children Stories 222,978-977-616-608-7,2010,92.66,228,This is a fascinating book about children education and entertainment
+223,12,Medical Guide 223,978-977-989-275-2,2011,83.22,850,This is a fascinating book about medical advancements in Egypt
+224,16,Physics Explained 224,978-977-709-106-7,2021,226.21,261,This is a fascinating book about physics and astronomy
+225,19,Travel Egypt 225,978-977-888-408-7,2019,58.78,842,This is a fascinating book about travel destinations in Egypt
+226,4,Science & Nature 226,978-977-708-728-6,2007,177.91,893,This is a fascinating book about scientific discoveries in Egypt
+227,2,History of Egypt 227,978-977-140-441-4,2023,234.63,456,This is a fascinating book about ancient and modern Egyptian history
+228,10,Health & Wellness 228,978-977-743-950-9,2005,110.69,956,This is a fascinating book about healthcare in Egyptian society
+229,9,Political Analysis 229,978-977-804-874-5,2017,89.49,480,This is a fascinating book about political landscape of the Middle East
+230,11,Engineering Principles 230,978-977-563-439-5,2000,142.07,846,This is a fascinating book about modern engineering in Egypt
+231,7,Egyptian Art 231,978-977-427-374-8,2014,229.82,709,This is a fascinating book about Egyptian art through the ages
+232,5,Children Stories 232,978-977-216-941-9,2018,208.43,720,This is a fascinating book about children education and entertainment
+233,20,Sports in Egypt 233,978-977-195-922-8,2018,243.92,842,This is a fascinating book about sports and athletics in Egypt
+234,20,Sports in Egypt 234,978-977-616-115-1,2003,194.51,533,This is a fascinating book about sports and athletics in Egypt
+235,4,Science & Nature 235,978-977-329-995-6,2006,239.95,591,This is a fascinating book about scientific discoveries in Egypt
+236,13,Egyptian Law 236,978-977-136-492-5,2013,185.64,615,This is a fascinating book about legal system in Egypt
+237,14,Agriculture Guide 237,978-977-408-562-2,2014,115.28,890,This is a fascinating book about agriculture in the Nile Valley
+238,11,Engineering Principles 238,978-977-206-423-8,2020,203.38,189,This is a fascinating book about modern engineering in Egypt
+239,11,Engineering Principles 239,978-977-608-597-7,2005,220.93,802,This is a fascinating book about modern engineering in Egypt
+240,14,Agriculture Guide 240,978-977-274-641-4,2004,189.89,483,This is a fascinating book about agriculture in the Nile Valley
+241,15,Mathematics Basics 241,978-977-858-110-2,2003,69.12,380,This is a fascinating book about mathematical concepts
+242,12,Medical Guide 242,978-977-254-932-2,2015,142.14,557,This is a fascinating book about medical advancements in Egypt
+243,14,Agriculture Guide 243,978-977-372-247-1,2008,188.05,292,This is a fascinating book about agriculture in the Nile Valley
+244,11,Engineering Principles 244,978-977-785-922-7,2001,204.28,206,This is a fascinating book about modern engineering in Egypt
+245,15,Mathematics Basics 245,978-977-259-496-1,2007,136.11,448,This is a fascinating book about mathematical concepts
+246,20,Sports in Egypt 246,978-977-731-350-3,2001,64.86,199,This is a fascinating book about sports and athletics in Egypt
+247,1,The Literature Book 247,978-977-256-884-3,2004,207.42,439,This is a fascinating book about Egyptian literature and culture
+248,6,Philosophy Thoughts 248,978-977-379-302-4,2002,124.74,986,This is a fascinating book about philosophical thinking in Arabic culture
+249,10,Health & Wellness 249,978-977-520-390-3,2022,224.27,598,This is a fascinating book about healthcare in Egyptian society
+250,10,Health & Wellness 250,978-977-781-401-9,2010,184.37,722,This is a fascinating book about healthcare in Egyptian society
+251,13,Egyptian Law 251,978-977-128-300-4,2012,60.23,293,This is a fascinating book about legal system in Egypt
+252,7,Egyptian Art 252,978-977-546-338-9,2011,195.57,841,This is a fascinating book about Egyptian art through the ages
+253,19,Travel Egypt 253,978-977-162-703-3,2004,211.86,835,This is a fascinating book about travel destinations in Egypt
+254,8,Economy of Egypt 254,978-977-406-342-5,2011,129.75,251,This is a fascinating book about economic development in Egypt
+255,9,Political Analysis 255,978-977-585-148-2,2005,248.35,804,This is a fascinating book about political landscape of the Middle East
+256,3,Islamic Studies 256,978-977-405-934-7,2021,114.14,908,This is a fascinating book about religious studies and traditions
+257,2,History of Egypt 257,978-977-509-556-1,2005,51.04,372,This is a fascinating book about ancient and modern Egyptian history
+258,17,Chemistry Today 258,978-977-502-297-7,2004,67.56,695,This is a fascinating book about chemistry in daily life
+259,6,Philosophy Thoughts 259,978-977-809-640-3,2002,57.05,909,This is a fascinating book about philosophical thinking in Arabic culture
+260,14,Agriculture Guide 260,978-977-469-614-5,2023,87.94,919,This is a fascinating book about agriculture in the Nile Valley
+261,15,Mathematics Basics 261,978-977-445-858-9,2010,71.6,381,This is a fascinating book about mathematical concepts
+262,9,Political Analysis 262,978-977-266-154-2,2023,114.64,930,This is a fascinating book about political landscape of the Middle East
+263,18,Geography of Egypt 263,978-977-600-735-1,2013,93.74,692,This is a fascinating book about geography of the Arab world
+264,19,Travel Egypt 264,978-977-924-493-4,2002,227.0,877,This is a fascinating book about travel destinations in Egypt
+265,1,The Literature Book 265,978-977-699-135-8,2017,245.93,882,This is a fascinating book about Egyptian literature and culture
+266,6,Philosophy Thoughts 266,978-977-703-506-3,2015,200.67,933,This is a fascinating book about philosophical thinking in Arabic culture
+267,6,Philosophy Thoughts 267,978-977-749-684-3,2021,119.48,887,This is a fascinating book about philosophical thinking in Arabic culture
+268,18,Geography of Egypt 268,978-977-570-164-9,2021,80.87,239,This is a fascinating book about geography of the Arab world
+269,2,History of Egypt 269,978-977-184-285-1,2000,81.71,934,This is a fascinating book about ancient and modern Egyptian history
+270,8,Economy of Egypt 270,978-977-350-324-3,2004,127.17,779,This is a fascinating book about economic development in Egypt
+271,14,Agriculture Guide 271,978-977-254-921-5,2007,80.13,472,This is a fascinating book about agriculture in the Nile Valley
+272,15,Mathematics Basics 272,978-977-555-524-4,2010,73.28,330,This is a fascinating book about mathematical concepts
+273,19,Travel Egypt 273,978-977-733-430-1,2001,216.8,531,This is a fascinating book about travel destinations in Egypt
+274,10,Health & Wellness 274,978-977-106-148-6,2017,189.78,508,This is a fascinating book about healthcare in Egyptian society
+275,8,Economy of Egypt 275,978-977-596-595-5,2008,99.56,846,This is a fascinating book about economic development in Egypt
+276,15,Mathematics Basics 276,978-977-173-264-9,2008,245.17,728,This is a fascinating book about mathematical concepts
+277,9,Political Analysis 277,978-977-276-905-8,2011,156.48,182,This is a fascinating book about political landscape of the Middle East
+278,2,History of Egypt 278,978-977-537-991-5,2002,100.46,789,This is a fascinating book about ancient and modern Egyptian history
+279,19,Travel Egypt 279,978-977-646-644-7,2008,200.37,153,This is a fascinating book about travel destinations in Egypt
+280,19,Travel Egypt 280,978-977-915-928-5,2008,190.85,130,This is a fascinating book about travel destinations in Egypt
+281,3,Islamic Studies 281,978-977-227-596-1,2008,242.32,557,This is a fascinating book about religious studies and traditions
+282,13,Egyptian Law 282,978-977-200-204-7,2015,216.11,914,This is a fascinating book about legal system in Egypt
+283,10,Health & Wellness 283,978-977-718-552-1,2003,124.19,630,This is a fascinating book about healthcare in Egyptian society
+284,19,Travel Egypt 284,978-977-416-473-8,2019,191.93,632,This is a fascinating book about travel destinations in Egypt
+285,5,Children Stories 285,978-977-118-375-3,2023,177.93,167,This is a fascinating book about children education and entertainment
+286,17,Chemistry Today 286,978-977-685-353-8,2019,159.85,127,This is a fascinating book about chemistry in daily life
+287,15,Mathematics Basics 287,978-977-208-236-3,2019,109.88,271,This is a fascinating book about mathematical concepts
+288,19,Travel Egypt 288,978-977-648-607-2,2006,101.72,776,This is a fascinating book about travel destinations in Egypt
+289,10,Health & Wellness 289,978-977-290-306-9,2017,128.11,201,This is a fascinating book about healthcare in Egyptian society
+290,20,Sports in Egypt 290,978-977-757-449-5,2020,168.98,874,This is a fascinating book about sports and athletics in Egypt
+291,9,Political Analysis 291,978-977-642-843-5,2013,181.87,281,This is a fascinating book about political landscape of the Middle East
+292,16,Physics Explained 292,978-977-786-519-3,2018,214.47,592,This is a fascinating book about physics and astronomy
+293,13,Egyptian Law 293,978-977-334-903-5,2005,168.57,389,This is a fascinating book about legal system in Egypt
+294,7,Egyptian Art 294,978-977-986-964-7,2011,237.5,262,This is a fascinating book about Egyptian art through the ages
+295,4,Science & Nature 295,978-977-718-499-9,2018,225.4,665,This is a fascinating book about scientific discoveries in Egypt
+296,20,Sports in Egypt 296,978-977-225-581-8,2023,217.57,943,This is a fascinating book about sports and athletics in Egypt
+297,8,Economy of Egypt 297,978-977-557-451-7,2005,146.37,761,This is a fascinating book about economic development in Egypt
+298,20,Sports in Egypt 298,978-977-721-699-4,2006,69.9,682,This is a fascinating book about sports and athletics in Egypt
+299,15,Mathematics Basics 299,978-977-921-672-2,2011,70.27,370,This is a fascinating book about mathematical concepts
+300,8,Economy of Egypt 300,978-977-118-680-6,2000,173.53,196,This is a fascinating book about economic development in Egypt
+301,18,Geography of Egypt 301,978-977-329-301-8,2009,236.73,288,This is a fascinating book about geography of the Arab world
+302,2,History of Egypt 302,978-977-370-378-1,2014,124.05,927,This is a fascinating book about ancient and modern Egyptian history
+303,18,Geography of Egypt 303,978-977-988-397-1,2010,134.23,938,This is a fascinating book about geography of the Arab world
+304,10,Health & Wellness 304,978-977-917-666-9,2020,208.6,600,This is a fascinating book about healthcare in Egyptian society
+305,19,Travel Egypt 305,978-977-419-363-5,2009,147.13,646,This is a fascinating book about travel destinations in Egypt
+306,3,Islamic Studies 306,978-977-156-560-5,2008,196.65,308,This is a fascinating book about religious studies and traditions
+307,7,Egyptian Art 307,978-977-521-411-6,2008,197.91,355,This is a fascinating book about Egyptian art through the ages
+308,8,Economy of Egypt 308,978-977-153-632-7,2006,117.08,788,This is a fascinating book about economic development in Egypt
+309,8,Economy of Egypt 309,978-977-180-887-9,2019,124.79,649,This is a fascinating book about economic development in Egypt
+310,20,Sports in Egypt 310,978-977-408-703-9,2023,157.3,149,This is a fascinating book about sports and athletics in Egypt
+311,8,Economy of Egypt 311,978-977-128-202-8,2004,160.61,491,This is a fascinating book about economic development in Egypt
+312,5,Children Stories 312,978-977-490-760-7,2015,57.94,350,This is a fascinating book about children education and entertainment
+313,4,Science & Nature 313,978-977-906-776-4,2007,223.73,289,This is a fascinating book about scientific discoveries in Egypt
+314,9,Political Analysis 314,978-977-991-423-8,2013,186.8,329,This is a fascinating book about political landscape of the Middle East
+315,6,Philosophy Thoughts 315,978-977-991-876-4,2010,125.67,619,This is a fascinating book about philosophical thinking in Arabic culture
+316,5,Children Stories 316,978-977-662-165-2,2002,159.68,584,This is a fascinating book about children education and entertainment
+317,14,Agriculture Guide 317,978-977-730-793-3,2016,132.96,963,This is a fascinating book about agriculture in the Nile Valley
+318,20,Sports in Egypt 318,978-977-803-852-7,2012,68.99,370,This is a fascinating book about sports and athletics in Egypt
+319,16,Physics Explained 319,978-977-707-442-2,2011,57.58,958,This is a fascinating book about physics and astronomy
+320,9,Political Analysis 320,978-977-464-192-5,2000,57.22,293,This is a fascinating book about political landscape of the Middle East
+321,8,Economy of Egypt 321,978-977-470-832-7,2006,129.7,564,This is a fascinating book about economic development in Egypt
+322,8,Economy of Egypt 322,978-977-952-534-1,2006,245.9,830,This is a fascinating book about economic development in Egypt
+323,20,Sports in Egypt 323,978-977-681-768-2,2019,170.98,985,This is a fascinating book about sports and athletics in Egypt
+324,6,Philosophy Thoughts 324,978-977-799-572-5,2013,231.64,837,This is a fascinating book about philosophical thinking in Arabic culture
+325,2,History of Egypt 325,978-977-955-231-9,2006,149.23,649,This is a fascinating book about ancient and modern Egyptian history
+326,18,Geography of Egypt 326,978-977-738-738-5,2019,173.51,654,This is a fascinating book about geography of the Arab world
+327,17,Chemistry Today 327,978-977-277-518-9,2016,149.0,183,This is a fascinating book about chemistry in daily life
+328,13,Egyptian Law 328,978-977-261-185-9,2018,93.55,493,This is a fascinating book about legal system in Egypt
+329,17,Chemistry Today 329,978-977-838-686-2,2005,137.31,295,This is a fascinating book about chemistry in daily life
+330,7,Egyptian Art 330,978-977-652-951-9,2017,103.52,548,This is a fascinating book about Egyptian art through the ages
+331,17,Chemistry Today 331,978-977-769-193-4,2016,133.75,920,This is a fascinating book about chemistry in daily life
+332,18,Geography of Egypt 332,978-977-982-807-3,2016,129.36,138,This is a fascinating book about geography of the Arab world
+333,15,Mathematics Basics 333,978-977-378-150-1,2020,184.45,405,This is a fascinating book about mathematical concepts
+334,3,Islamic Studies 334,978-977-599-272-8,2023,175.68,916,This is a fascinating book about religious studies and traditions
+335,2,History of Egypt 335,978-977-948-568-3,2010,146.92,279,This is a fascinating book about ancient and modern Egyptian history
+336,9,Political Analysis 336,978-977-495-953-4,2021,229.24,837,This is a fascinating book about political landscape of the Middle East
+337,19,Travel Egypt 337,978-977-869-890-1,2020,160.66,232,This is a fascinating book about travel destinations in Egypt
+338,3,Islamic Studies 338,978-977-413-422-2,2002,118.52,619,This is a fascinating book about religious studies and traditions
+339,6,Philosophy Thoughts 339,978-977-250-534-7,2002,52.62,314,This is a fascinating book about philosophical thinking in Arabic culture
+340,3,Islamic Studies 340,978-977-650-775-8,2013,67.14,892,This is a fascinating book about religious studies and traditions
+341,18,Geography of Egypt 341,978-977-107-781-8,2019,125.25,605,This is a fascinating book about geography of the Arab world
+342,13,Egyptian Law 342,978-977-570-494-8,2002,91.83,118,This is a fascinating book about legal system in Egypt
+343,8,Economy of Egypt 343,978-977-397-701-5,2015,70.29,678,This is a fascinating book about economic development in Egypt
+344,10,Health & Wellness 344,978-977-320-843-5,2006,85.83,661,This is a fascinating book about healthcare in Egyptian society
+345,17,Chemistry Today 345,978-977-289-233-3,2017,168.81,177,This is a fascinating book about chemistry in daily life
+346,16,Physics Explained 346,978-977-367-462-7,2010,96.77,433,This is a fascinating book about physics and astronomy
+347,12,Medical Guide 347,978-977-759-467-3,2012,136.1,582,This is a fascinating book about medical advancements in Egypt
+348,20,Sports in Egypt 348,978-977-881-792-8,2015,203.33,766,This is a fascinating book about sports and athletics in Egypt
+349,14,Agriculture Guide 349,978-977-105-708-8,2013,138.39,479,This is a fascinating book about agriculture in the Nile Valley
+350,7,Egyptian Art 350,978-977-715-388-9,2015,61.9,651,This is a fascinating book about Egyptian art through the ages
+351,9,Political Analysis 351,978-977-421-816-7,2018,155.07,230,This is a fascinating book about political landscape of the Middle East
+352,11,Engineering Principles 352,978-977-689-157-9,2018,226.63,839,This is a fascinating book about modern engineering in Egypt
+353,8,Economy of Egypt 353,978-977-682-816-6,2022,247.18,218,This is a fascinating book about economic development in Egypt
+354,4,Science & Nature 354,978-977-776-612-6,2018,85.44,157,This is a fascinating book about scientific discoveries in Egypt
+355,12,Medical Guide 355,978-977-115-908-6,2016,140.68,537,This is a fascinating book about medical advancements in Egypt
+356,18,Geography of Egypt 356,978-977-609-291-5,2009,144.51,320,This is a fascinating book about geography of the Arab world
+357,4,Science & Nature 357,978-977-277-258-5,2015,77.1,664,This is a fascinating book about scientific discoveries in Egypt
+358,4,Science & Nature 358,978-977-717-440-8,2004,134.49,234,This is a fascinating book about scientific discoveries in Egypt
+359,20,Sports in Egypt 359,978-977-859-638-5,2014,196.99,991,This is a fascinating book about sports and athletics in Egypt
+360,5,Children Stories 360,978-977-263-638-7,2023,125.34,683,This is a fascinating book about children education and entertainment
+361,9,Political Analysis 361,978-977-153-704-3,2004,82.42,646,This is a fascinating book about political landscape of the Middle East
+362,6,Philosophy Thoughts 362,978-977-888-363-5,2012,177.66,342,This is a fascinating book about philosophical thinking in Arabic culture
+363,20,Sports in Egypt 363,978-977-688-648-2,2012,87.53,620,This is a fascinating book about sports and athletics in Egypt
+364,16,Physics Explained 364,978-977-133-866-4,2002,217.62,158,This is a fascinating book about physics and astronomy
+365,9,Political Analysis 365,978-977-675-764-7,2001,153.13,279,This is a fascinating book about political landscape of the Middle East
+366,16,Physics Explained 366,978-977-727-183-1,2017,106.38,363,This is a fascinating book about physics and astronomy
+367,15,Mathematics Basics 367,978-977-678-172-1,2011,192.22,670,This is a fascinating book about mathematical concepts
+368,13,Egyptian Law 368,978-977-732-953-7,2012,209.82,658,This is a fascinating book about legal system in Egypt
+369,16,Physics Explained 369,978-977-326-497-6,2022,83.25,119,This is a fascinating book about physics and astronomy
+370,9,Political Analysis 370,978-977-504-302-5,2020,176.52,623,This is a fascinating book about political landscape of the Middle East
+371,18,Geography of Egypt 371,978-977-323-406-6,2012,51.0,472,This is a fascinating book about geography of the Arab world
+372,2,History of Egypt 372,978-977-546-771-9,2018,145.25,816,This is a fascinating book about ancient and modern Egyptian history
+373,13,Egyptian Law 373,978-977-969-381-8,2013,160.95,383,This is a fascinating book about legal system in Egypt
+374,3,Islamic Studies 374,978-977-534-616-6,2006,86.56,234,This is a fascinating book about religious studies and traditions
+375,15,Mathematics Basics 375,978-977-407-463-3,2009,216.37,447,This is a fascinating book about mathematical concepts
+376,20,Sports in Egypt 376,978-977-979-413-7,2010,152.57,275,This is a fascinating book about sports and athletics in Egypt
+377,20,Sports in Egypt 377,978-977-510-787-6,2013,52.08,700,This is a fascinating book about sports and athletics in Egypt
+378,17,Chemistry Today 378,978-977-537-946-4,2018,148.58,785,This is a fascinating book about chemistry in daily life
+379,20,Sports in Egypt 379,978-977-351-716-6,2006,148.21,818,This is a fascinating book about sports and athletics in Egypt
+380,11,Engineering Principles 380,978-977-121-642-9,2017,210.24,943,This is a fascinating book about modern engineering in Egypt
+381,17,Chemistry Today 381,978-977-983-714-9,2018,56.19,556,This is a fascinating book about chemistry in daily life
+382,18,Geography of Egypt 382,978-977-253-367-3,2016,138.74,319,This is a fascinating book about geography of the Arab world
+383,17,Chemistry Today 383,978-977-844-389-6,2017,203.93,631,This is a fascinating book about chemistry in daily life
+384,3,Islamic Studies 384,978-977-725-610-9,2016,137.63,838,This is a fascinating book about religious studies and traditions
+385,13,Egyptian Law 385,978-977-341-464-3,2006,78.48,211,This is a fascinating book about legal system in Egypt
+386,18,Geography of Egypt 386,978-977-747-788-2,2005,208.73,729,This is a fascinating book about geography of the Arab world
+387,19,Travel Egypt 387,978-977-408-711-8,2020,200.4,515,This is a fascinating book about travel destinations in Egypt
+388,11,Engineering Principles 388,978-977-797-323-5,2016,231.18,731,This is a fascinating book about modern engineering in Egypt
+389,19,Travel Egypt 389,978-977-771-758-7,2001,135.35,150,This is a fascinating book about travel destinations in Egypt
+390,13,Egyptian Law 390,978-977-221-242-2,2006,82.52,870,This is a fascinating book about legal system in Egypt
+391,9,Political Analysis 391,978-977-957-922-7,2012,185.14,923,This is a fascinating book about political landscape of the Middle East
+392,3,Islamic Studies 392,978-977-850-769-6,2017,113.94,433,This is a fascinating book about religious studies and traditions
+393,9,Political Analysis 393,978-977-422-536-9,2001,188.3,322,This is a fascinating book about political landscape of the Middle East
+394,11,Engineering Principles 394,978-977-356-979-5,2010,191.95,225,This is a fascinating book about modern engineering in Egypt
+395,11,Engineering Principles 395,978-977-612-726-3,2003,203.83,808,This is a fascinating book about modern engineering in Egypt
+396,4,Science & Nature 396,978-977-550-205-7,2008,195.67,489,This is a fascinating book about scientific discoveries in Egypt
+397,11,Engineering Principles 397,978-977-793-235-9,2004,238.21,387,This is a fascinating book about modern engineering in Egypt
+398,2,History of Egypt 398,978-977-819-871-3,2020,118.83,834,This is a fascinating book about ancient and modern Egyptian history
+399,10,Health & Wellness 399,978-977-503-230-8,2008,166.38,297,This is a fascinating book about healthcare in Egyptian society
+400,11,Engineering Principles 400,978-977-245-824-1,2017,186.19,407,This is a fascinating book about modern engineering in Egypt
+401,4,Science & Nature 401,978-977-786-698-9,2020,227.82,699,This is a fascinating book about scientific discoveries in Egypt
+402,3,Islamic Studies 402,978-977-495-547-6,2012,101.5,976,This is a fascinating book about religious studies and traditions
+403,1,The Literature Book 403,978-977-237-812-7,2015,99.71,152,This is a fascinating book about Egyptian literature and culture
+404,4,Science & Nature 404,978-977-965-632-3,2003,95.37,968,This is a fascinating book about scientific discoveries in Egypt
+405,9,Political Analysis 405,978-977-698-389-9,2018,70.71,732,This is a fascinating book about political landscape of the Middle East
+406,6,Philosophy Thoughts 406,978-977-603-160-3,2017,192.02,980,This is a fascinating book about philosophical thinking in Arabic culture
+407,20,Sports in Egypt 407,978-977-687-258-6,2000,174.05,852,This is a fascinating book about sports and athletics in Egypt
+408,4,Science & Nature 408,978-977-485-446-6,2021,100.88,405,This is a fascinating book about scientific discoveries in Egypt
+409,7,Egyptian Art 409,978-977-183-506-3,2011,121.46,866,This is a fascinating book about Egyptian art through the ages
+410,5,Children Stories 410,978-977-998-910-8,2001,70.81,470,This is a fascinating book about children education and entertainment
+411,10,Health & Wellness 411,978-977-481-243-8,2021,152.22,722,This is a fascinating book about healthcare in Egyptian society
+412,6,Philosophy Thoughts 412,978-977-640-848-4,2017,242.29,245,This is a fascinating book about philosophical thinking in Arabic culture
+413,17,Chemistry Today 413,978-977-983-912-5,2018,207.64,285,This is a fascinating book about chemistry in daily life
+414,16,Physics Explained 414,978-977-631-868-4,2008,184.12,200,This is a fascinating book about physics and astronomy
+415,9,Political Analysis 415,978-977-898-907-3,2015,92.65,994,This is a fascinating book about political landscape of the Middle East
+416,20,Sports in Egypt 416,978-977-566-989-7,2002,141.33,462,This is a fascinating book about sports and athletics in Egypt
+417,11,Engineering Principles 417,978-977-102-850-9,2015,224.94,711,This is a fascinating book about modern engineering in Egypt
+418,10,Health & Wellness 418,978-977-568-908-4,2002,104.84,282,This is a fascinating book about healthcare in Egyptian society
+419,2,History of Egypt 419,978-977-812-283-2,2019,183.25,920,This is a fascinating book about ancient and modern Egyptian history
+420,15,Mathematics Basics 420,978-977-845-777-7,2003,55.79,671,This is a fascinating book about mathematical concepts
+421,15,Mathematics Basics 421,978-977-432-351-4,2008,66.61,803,This is a fascinating book about mathematical concepts
+422,17,Chemistry Today 422,978-977-766-346-3,2017,120.82,781,This is a fascinating book about chemistry in daily life
+423,16,Physics Explained 423,978-977-875-530-5,2006,221.14,448,This is a fascinating book about physics and astronomy
+424,5,Children Stories 424,978-977-367-680-3,2011,246.7,990,This is a fascinating book about children education and entertainment
+425,4,Science & Nature 425,978-977-993-433-1,2020,235.7,152,This is a fascinating book about scientific discoveries in Egypt
+426,14,Agriculture Guide 426,978-977-839-900-5,2013,227.24,758,This is a fascinating book about agriculture in the Nile Valley
+427,17,Chemistry Today 427,978-977-300-609-9,2022,113.76,862,This is a fascinating book about chemistry in daily life
+428,11,Engineering Principles 428,978-977-681-344-3,2013,174.0,229,This is a fascinating book about modern engineering in Egypt
+429,19,Travel Egypt 429,978-977-843-724-1,2002,99.3,444,This is a fascinating book about travel destinations in Egypt
+430,11,Engineering Principles 430,978-977-441-735-2,2015,88.19,472,This is a fascinating book about modern engineering in Egypt
+431,3,Islamic Studies 431,978-977-935-404-1,2012,208.24,616,This is a fascinating book about religious studies and traditions
+432,14,Agriculture Guide 432,978-977-510-889-7,2007,56.08,941,This is a fascinating book about agriculture in the Nile Valley
+433,10,Health & Wellness 433,978-977-245-753-4,2000,242.72,609,This is a fascinating book about healthcare in Egyptian society
+434,5,Children Stories 434,978-977-697-816-2,2007,199.38,193,This is a fascinating book about children education and entertainment
+435,8,Economy of Egypt 435,978-977-988-313-8,2016,249.48,518,This is a fascinating book about economic development in Egypt
+436,14,Agriculture Guide 436,978-977-855-817-8,2009,170.1,613,This is a fascinating book about agriculture in the Nile Valley
+437,4,Science & Nature 437,978-977-717-481-5,2000,224.5,601,This is a fascinating book about scientific discoveries in Egypt
+438,11,Engineering Principles 438,978-977-898-602-4,2008,131.49,899,This is a fascinating book about modern engineering in Egypt
+439,20,Sports in Egypt 439,978-977-743-738-1,2021,226.19,918,This is a fascinating book about sports and athletics in Egypt
+440,12,Medical Guide 440,978-977-196-933-2,2016,200.17,373,This is a fascinating book about medical advancements in Egypt
+441,20,Sports in Egypt 441,978-977-654-732-5,2012,208.41,964,This is a fascinating book about sports and athletics in Egypt
+442,20,Sports in Egypt 442,978-977-889-416-8,2002,105.37,922,This is a fascinating book about sports and athletics in Egypt
+443,15,Mathematics Basics 443,978-977-995-999-4,2018,244.96,536,This is a fascinating book about mathematical concepts
+444,13,Egyptian Law 444,978-977-639-100-5,2017,62.33,805,This is a fascinating book about legal system in Egypt
+445,9,Political Analysis 445,978-977-755-775-8,2001,232.1,640,This is a fascinating book about political landscape of the Middle East
+446,7,Egyptian Art 446,978-977-369-623-4,2001,203.34,355,This is a fascinating book about Egyptian art through the ages
+447,4,Science & Nature 447,978-977-884-780-5,2013,83.16,274,This is a fascinating book about scientific discoveries in Egypt
+448,7,Egyptian Art 448,978-977-990-758-8,2011,91.2,227,This is a fascinating book about Egyptian art through the ages
+449,4,Science & Nature 449,978-977-926-482-2,2009,80.11,329,This is a fascinating book about scientific discoveries in Egypt
+450,20,Sports in Egypt 450,978-977-465-513-5,2020,148.27,211,This is a fascinating book about sports and athletics in Egypt
+451,9,Political Analysis 451,978-977-102-278-1,2023,222.6,417,This is a fascinating book about political landscape of the Middle East
+452,5,Children Stories 452,978-977-957-948-3,2009,125.45,246,This is a fascinating book about children education and entertainment
+453,7,Egyptian Art 453,978-977-960-434-3,2021,152.15,571,This is a fascinating book about Egyptian art through the ages
+454,1,The Literature Book 454,978-977-562-996-5,2008,155.48,708,This is a fascinating book about Egyptian literature and culture
+455,5,Children Stories 455,978-977-992-322-8,2013,235.33,215,This is a fascinating book about children education and entertainment
+456,1,The Literature Book 456,978-977-556-241-5,2019,199.14,218,This is a fascinating book about Egyptian literature and culture
+457,10,Health & Wellness 457,978-977-734-386-3,2021,111.71,744,This is a fascinating book about healthcare in Egyptian society
+458,20,Sports in Egypt 458,978-977-579-525-1,2019,243.84,743,This is a fascinating book about sports and athletics in Egypt
+459,9,Political Analysis 459,978-977-178-383-8,2002,94.26,691,This is a fascinating book about political landscape of the Middle East
+460,7,Egyptian Art 460,978-977-800-864-3,2007,89.74,112,This is a fascinating book about Egyptian art through the ages
+461,14,Agriculture Guide 461,978-977-196-450-1,2008,171.34,931,This is a fascinating book about agriculture in the Nile Valley
+462,9,Political Analysis 462,978-977-218-860-8,2001,77.21,497,This is a fascinating book about political landscape of the Middle East
+463,19,Travel Egypt 463,978-977-505-781-3,2009,198.51,500,This is a fascinating book about travel destinations in Egypt
+464,18,Geography of Egypt 464,978-977-597-253-3,2015,191.8,167,This is a fascinating book about geography of the Arab world
+465,5,Children Stories 465,978-977-672-299-7,2014,230.21,878,This is a fascinating book about children education and entertainment
+466,16,Physics Explained 466,978-977-299-361-3,2014,220.25,580,This is a fascinating book about physics and astronomy
+467,2,History of Egypt 467,978-977-873-440-5,2006,176.42,848,This is a fascinating book about ancient and modern Egyptian history
+468,4,Science & Nature 468,978-977-264-449-6,2021,72.43,674,This is a fascinating book about scientific discoveries in Egypt
+469,16,Physics Explained 469,978-977-686-311-1,2014,115.23,299,This is a fascinating book about physics and astronomy
+470,11,Engineering Principles 470,978-977-894-432-7,2004,244.46,854,This is a fascinating book about modern engineering in Egypt
+471,6,Philosophy Thoughts 471,978-977-967-390-6,2009,189.72,529,This is a fascinating book about philosophical thinking in Arabic culture
+472,8,Economy of Egypt 472,978-977-487-493-9,2005,63.46,572,This is a fascinating book about economic development in Egypt
+473,10,Health & Wellness 473,978-977-557-104-9,2003,196.68,544,This is a fascinating book about healthcare in Egyptian society
+474,13,Egyptian Law 474,978-977-153-620-5,2001,224.08,489,This is a fascinating book about legal system in Egypt
+475,2,History of Egypt 475,978-977-872-547-3,2003,227.5,119,This is a fascinating book about ancient and modern Egyptian history
+476,17,Chemistry Today 476,978-977-731-609-3,2005,164.01,529,This is a fascinating book about chemistry in daily life
+477,19,Travel Egypt 477,978-977-693-394-2,2006,245.15,822,This is a fascinating book about travel destinations in Egypt
+478,4,Science & Nature 478,978-977-677-845-3,2003,155.47,573,This is a fascinating book about scientific discoveries in Egypt
+479,6,Philosophy Thoughts 479,978-977-914-347-7,2009,160.63,420,This is a fascinating book about philosophical thinking in Arabic culture
+480,14,Agriculture Guide 480,978-977-972-161-9,2021,185.48,598,This is a fascinating book about agriculture in the Nile Valley
+481,1,The Literature Book 481,978-977-767-741-8,2001,115.71,603,This is a fascinating book about Egyptian literature and culture
+482,18,Geography of Egypt 482,978-977-619-406-4,2004,129.89,585,This is a fascinating book about geography of the Arab world
+483,19,Travel Egypt 483,978-977-402-994-2,2004,109.71,744,This is a fascinating book about travel destinations in Egypt
+484,9,Political Analysis 484,978-977-916-909-8,2007,199.61,562,This is a fascinating book about political landscape of the Middle East
+485,8,Economy of Egypt 485,978-977-871-427-6,2007,52.72,845,This is a fascinating book about economic development in Egypt
+486,19,Travel Egypt 486,978-977-459-562-1,2023,172.25,722,This is a fascinating book about travel destinations in Egypt
+487,16,Physics Explained 487,978-977-382-885-1,2002,141.3,274,This is a fascinating book about physics and astronomy
+488,2,History of Egypt 488,978-977-154-746-6,2012,80.54,518,This is a fascinating book about ancient and modern Egyptian history
+489,5,Children Stories 489,978-977-862-916-4,2023,65.95,301,This is a fascinating book about children education and entertainment
+490,9,Political Analysis 490,978-977-807-413-9,2002,134.37,664,This is a fascinating book about political landscape of the Middle East
+491,8,Economy of Egypt 491,978-977-407-296-6,2008,214.4,260,This is a fascinating book about economic development in Egypt
+492,3,Islamic Studies 492,978-977-885-331-4,2001,218.49,211,This is a fascinating book about religious studies and traditions
+493,7,Egyptian Art 493,978-977-341-527-5,2013,173.08,787,This is a fascinating book about Egyptian art through the ages
+494,12,Medical Guide 494,978-977-555-478-1,2019,64.74,623,This is a fascinating book about medical advancements in Egypt
+495,11,Engineering Principles 495,978-977-249-827-5,2019,127.08,470,This is a fascinating book about modern engineering in Egypt
+496,9,Political Analysis 496,978-977-311-229-6,2023,145.41,506,This is a fascinating book about political landscape of the Middle East
+497,1,The Literature Book 497,978-977-165-972-2,2013,175.73,985,This is a fascinating book about Egyptian literature and culture
+498,17,Chemistry Today 498,978-977-266-827-2,2004,174.24,397,This is a fascinating book about chemistry in daily life
+499,18,Geography of Egypt 499,978-977-720-602-1,2022,165.93,367,This is a fascinating book about geography of the Arab world
+500,16,Physics Explained 500,978-977-152-615-1,2003,136.7,966,This is a fascinating book about physics and astronomy
+501,4,Science & Nature 501,978-977-115-872-3,2011,125.53,218,This is a fascinating book about scientific discoveries in Egypt
+502,10,Health & Wellness 502,978-977-378-180-6,2009,146.58,183,This is a fascinating book about healthcare in Egyptian society
+503,1,The Literature Book 503,978-977-758-533-8,2008,51.95,823,This is a fascinating book about Egyptian literature and culture
+504,16,Physics Explained 504,978-977-212-945-7,2021,208.11,786,This is a fascinating book about physics and astronomy
+505,14,Agriculture Guide 505,978-977-402-117-3,2014,120.77,813,This is a fascinating book about agriculture in the Nile Valley
+506,14,Agriculture Guide 506,978-977-254-912-9,2003,201.97,471,This is a fascinating book about agriculture in the Nile Valley
+507,6,Philosophy Thoughts 507,978-977-533-594-2,2000,226.65,541,This is a fascinating book about philosophical thinking in Arabic culture
+508,9,Political Analysis 508,978-977-934-118-7,2008,201.16,853,This is a fascinating book about political landscape of the Middle East
+509,18,Geography of Egypt 509,978-977-433-703-7,2001,94.66,232,This is a fascinating book about geography of the Arab world
+510,4,Science & Nature 510,978-977-190-944-5,2019,133.23,533,This is a fascinating book about scientific discoveries in Egypt
+511,12,Medical Guide 511,978-977-614-869-2,2014,219.43,777,This is a fascinating book about medical advancements in Egypt
+512,14,Agriculture Guide 512,978-977-755-369-7,2002,185.45,846,This is a fascinating book about agriculture in the Nile Valley
+513,19,Travel Egypt 513,978-977-284-364-2,2015,234.35,106,This is a fascinating book about travel destinations in Egypt
+514,2,History of Egypt 514,978-977-990-751-6,2010,247.43,940,This is a fascinating book about ancient and modern Egyptian history
+515,17,Chemistry Today 515,978-977-827-817-2,2000,200.99,922,This is a fascinating book about chemistry in daily life
+516,7,Egyptian Art 516,978-977-760-620-8,2011,113.3,526,This is a fascinating book about Egyptian art through the ages
+517,20,Sports in Egypt 517,978-977-186-578-2,2020,106.05,666,This is a fascinating book about sports and athletics in Egypt
+518,15,Mathematics Basics 518,978-977-262-432-3,2003,232.96,703,This is a fascinating book about mathematical concepts
+519,5,Children Stories 519,978-977-300-182-5,2008,180.71,330,This is a fascinating book about children education and entertainment
+520,13,Egyptian Law 520,978-977-642-763-7,2015,171.69,300,This is a fascinating book about legal system in Egypt
+521,19,Travel Egypt 521,978-977-596-713-9,2004,195.86,168,This is a fascinating book about travel destinations in Egypt
+522,3,Islamic Studies 522,978-977-932-388-2,2012,210.27,590,This is a fascinating book about religious studies and traditions
+523,11,Engineering Principles 523,978-977-876-731-4,2020,229.28,193,This is a fascinating book about modern engineering in Egypt
+524,6,Philosophy Thoughts 524,978-977-656-121-8,2022,67.52,343,This is a fascinating book about philosophical thinking in Arabic culture
+525,19,Travel Egypt 525,978-977-577-326-1,2006,201.26,756,This is a fascinating book about travel destinations in Egypt
+526,20,Sports in Egypt 526,978-977-452-901-8,2013,217.47,913,This is a fascinating book about sports and athletics in Egypt
+527,12,Medical Guide 527,978-977-338-295-5,2020,157.45,607,This is a fascinating book about medical advancements in Egypt
+528,2,History of Egypt 528,978-977-264-491-1,2015,198.95,306,This is a fascinating book about ancient and modern Egyptian history
+529,12,Medical Guide 529,978-977-342-710-8,2008,69.77,677,This is a fascinating book about medical advancements in Egypt
+530,20,Sports in Egypt 530,978-977-367-225-9,2010,215.96,865,This is a fascinating book about sports and athletics in Egypt
+531,16,Physics Explained 531,978-977-818-421-2,2016,51.53,733,This is a fascinating book about physics and astronomy
+532,4,Science & Nature 532,978-977-698-766-5,2000,70.73,577,This is a fascinating book about scientific discoveries in Egypt
+533,1,The Literature Book 533,978-977-445-137-5,2015,91.11,980,This is a fascinating book about Egyptian literature and culture
+534,18,Geography of Egypt 534,978-977-202-147-7,2010,190.45,481,This is a fascinating book about geography of the Arab world
+535,18,Geography of Egypt 535,978-977-645-136-1,2019,167.78,722,This is a fascinating book about geography of the Arab world
+536,11,Engineering Principles 536,978-977-353-423-5,2009,162.12,963,This is a fascinating book about modern engineering in Egypt
+537,2,History of Egypt 537,978-977-990-350-4,2002,220.97,200,This is a fascinating book about ancient and modern Egyptian history
+538,16,Physics Explained 538,978-977-287-754-1,2020,232.66,452,This is a fascinating book about physics and astronomy
+539,15,Mathematics Basics 539,978-977-414-357-1,2001,93.75,739,This is a fascinating book about mathematical concepts
+540,8,Economy of Egypt 540,978-977-129-845-1,2013,162.04,571,This is a fascinating book about economic development in Egypt
+541,18,Geography of Egypt 541,978-977-132-419-5,2005,184.84,124,This is a fascinating book about geography of the Arab world
+542,16,Physics Explained 542,978-977-850-888-9,2003,229.25,710,This is a fascinating book about physics and astronomy
+543,1,The Literature Book 543,978-977-871-800-2,2021,103.79,113,This is a fascinating book about Egyptian literature and culture
+544,12,Medical Guide 544,978-977-929-322-4,2023,244.85,619,This is a fascinating book about medical advancements in Egypt
+545,10,Health & Wellness 545,978-977-540-806-9,2008,128.32,558,This is a fascinating book about healthcare in Egyptian society
+546,19,Travel Egypt 546,978-977-379-846-7,2002,145.42,355,This is a fascinating book about travel destinations in Egypt
+547,8,Economy of Egypt 547,978-977-888-135-3,2007,186.62,466,This is a fascinating book about economic development in Egypt
+548,3,Islamic Studies 548,978-977-932-985-1,2007,216.83,320,This is a fascinating book about religious studies and traditions
+549,14,Agriculture Guide 549,978-977-283-715-5,2018,87.59,209,This is a fascinating book about agriculture in the Nile Valley
+550,5,Children Stories 550,978-977-972-776-4,2006,83.71,805,This is a fascinating book about children education and entertainment
+551,19,Travel Egypt 551,978-977-819-102-2,2013,162.25,943,This is a fascinating book about travel destinations in Egypt
+552,6,Philosophy Thoughts 552,978-977-964-393-5,2009,96.49,617,This is a fascinating book about philosophical thinking in Arabic culture
+553,19,Travel Egypt 553,978-977-119-173-2,2021,128.85,318,This is a fascinating book about travel destinations in Egypt
+554,1,The Literature Book 554,978-977-545-384-9,2004,228.02,450,This is a fascinating book about Egyptian literature and culture
+555,18,Geography of Egypt 555,978-977-925-536-2,2022,187.68,812,This is a fascinating book about geography of the Arab world
+556,17,Chemistry Today 556,978-977-978-413-1,2002,246.31,579,This is a fascinating book about chemistry in daily life
+557,16,Physics Explained 557,978-977-103-915-7,2016,102.94,492,This is a fascinating book about physics and astronomy
+558,18,Geography of Egypt 558,978-977-360-802-6,2020,235.51,519,This is a fascinating book about geography of the Arab world
+559,18,Geography of Egypt 559,978-977-212-783-6,2020,164.08,738,This is a fascinating book about geography of the Arab world
+560,19,Travel Egypt 560,978-977-874-592-7,2016,124.85,172,This is a fascinating book about travel destinations in Egypt
+561,15,Mathematics Basics 561,978-977-202-281-8,2020,150.52,511,This is a fascinating book about mathematical concepts
+562,14,Agriculture Guide 562,978-977-637-830-5,2009,205.86,937,This is a fascinating book about agriculture in the Nile Valley
+563,6,Philosophy Thoughts 563,978-977-127-799-7,2022,105.31,498,This is a fascinating book about philosophical thinking in Arabic culture
+564,17,Chemistry Today 564,978-977-914-751-7,2004,228.93,914,This is a fascinating book about chemistry in daily life
+565,8,Economy of Egypt 565,978-977-284-373-7,2010,148.85,593,This is a fascinating book about economic development in Egypt
+566,6,Philosophy Thoughts 566,978-977-394-318-3,2000,122.7,564,This is a fascinating book about philosophical thinking in Arabic culture
+567,20,Sports in Egypt 567,978-977-225-968-8,2000,167.33,837,This is a fascinating book about sports and athletics in Egypt
+568,10,Health & Wellness 568,978-977-745-917-6,2007,217.68,313,This is a fascinating book about healthcare in Egyptian society
+569,6,Philosophy Thoughts 569,978-977-240-823-1,2014,160.56,409,This is a fascinating book about philosophical thinking in Arabic culture
+570,10,Health & Wellness 570,978-977-233-610-6,2014,77.81,277,This is a fascinating book about healthcare in Egyptian society
+571,18,Geography of Egypt 571,978-977-575-643-6,2021,179.32,110,This is a fascinating book about geography of the Arab world
+572,15,Mathematics Basics 572,978-977-407-294-7,2022,87.01,532,This is a fascinating book about mathematical concepts
+573,1,The Literature Book 573,978-977-579-353-5,2003,61.97,278,This is a fascinating book about Egyptian literature and culture
+574,20,Sports in Egypt 574,978-977-592-366-3,2011,118.2,258,This is a fascinating book about sports and athletics in Egypt
+575,2,History of Egypt 575,978-977-425-314-6,2020,124.4,148,This is a fascinating book about ancient and modern Egyptian history
+576,18,Geography of Egypt 576,978-977-457-313-4,2015,227.01,903,This is a fascinating book about geography of the Arab world
+577,14,Agriculture Guide 577,978-977-459-790-8,2018,61.76,979,This is a fascinating book about agriculture in the Nile Valley
+578,6,Philosophy Thoughts 578,978-977-417-286-7,2014,67.16,570,This is a fascinating book about philosophical thinking in Arabic culture
+579,5,Children Stories 579,978-977-541-547-8,2021,202.8,873,This is a fascinating book about children education and entertainment
+580,19,Travel Egypt 580,978-977-846-741-7,2008,210.06,686,This is a fascinating book about travel destinations in Egypt
+581,16,Physics Explained 581,978-977-737-898-5,2014,165.07,362,This is a fascinating book about physics and astronomy
+582,7,Egyptian Art 582,978-977-433-773-6,2010,195.63,489,This is a fascinating book about Egyptian art through the ages
+583,11,Engineering Principles 583,978-977-304-676-4,2022,150.9,479,This is a fascinating book about modern engineering in Egypt
+584,19,Travel Egypt 584,978-977-823-393-2,2012,245.83,452,This is a fascinating book about travel destinations in Egypt
+585,12,Medical Guide 585,978-977-981-758-3,2012,178.27,941,This is a fascinating book about medical advancements in Egypt
+586,7,Egyptian Art 586,978-977-632-291-1,2001,241.2,408,This is a fascinating book about Egyptian art through the ages
+587,16,Physics Explained 587,978-977-709-357-5,2018,62.1,489,This is a fascinating book about physics and astronomy
+588,3,Islamic Studies 588,978-977-837-289-3,2010,151.91,143,This is a fascinating book about religious studies and traditions
+589,20,Sports in Egypt 589,978-977-544-771-4,2023,62.33,550,This is a fascinating book about sports and athletics in Egypt
+590,10,Health & Wellness 590,978-977-878-325-1,2023,153.28,123,This is a fascinating book about healthcare in Egyptian society
+591,13,Egyptian Law 591,978-977-862-248-8,2019,61.38,500,This is a fascinating book about legal system in Egypt
+592,6,Philosophy Thoughts 592,978-977-522-641-2,2016,195.71,694,This is a fascinating book about philosophical thinking in Arabic culture
+593,1,The Literature Book 593,978-977-885-842-3,2021,97.97,354,This is a fascinating book about Egyptian literature and culture
+594,18,Geography of Egypt 594,978-977-263-152-9,2020,196.51,431,This is a fascinating book about geography of the Arab world
+595,7,Egyptian Art 595,978-977-785-391-4,2023,56.33,171,This is a fascinating book about Egyptian art through the ages
+596,7,Egyptian Art 596,978-977-223-396-6,2003,195.79,868,This is a fascinating book about Egyptian art through the ages
+597,2,History of Egypt 597,978-977-464-848-5,2018,208.18,160,This is a fascinating book about ancient and modern Egyptian history
+598,1,The Literature Book 598,978-977-451-369-4,2003,119.08,756,This is a fascinating book about Egyptian literature and culture
+599,12,Medical Guide 599,978-977-589-306-9,2008,227.54,765,This is a fascinating book about medical advancements in Egypt
+600,12,Medical Guide 600,978-977-393-476-3,2015,169.99,271,This is a fascinating book about medical advancements in Egypt
+601,9,Political Analysis 601,978-977-332-439-7,2014,189.18,938,This is a fascinating book about political landscape of the Middle East
+602,1,The Literature Book 602,978-977-503-240-1,2006,86.81,930,This is a fascinating book about Egyptian literature and culture
+603,10,Health & Wellness 603,978-977-250-147-9,2004,153.0,357,This is a fascinating book about healthcare in Egyptian society
+604,17,Chemistry Today 604,978-977-179-379-8,2009,223.98,239,This is a fascinating book about chemistry in daily life
+605,9,Political Analysis 605,978-977-593-742-8,2011,138.19,214,This is a fascinating book about political landscape of the Middle East
+606,9,Political Analysis 606,978-977-156-883-8,2000,79.36,627,This is a fascinating book about political landscape of the Middle East
+607,12,Medical Guide 607,978-977-440-911-2,2017,222.02,620,This is a fascinating book about medical advancements in Egypt
+608,10,Health & Wellness 608,978-977-832-519-4,2012,220.66,405,This is a fascinating book about healthcare in Egyptian society
+609,11,Engineering Principles 609,978-977-517-776-5,2014,205.56,686,This is a fascinating book about modern engineering in Egypt
+610,18,Geography of Egypt 610,978-977-686-885-2,2013,118.1,593,This is a fascinating book about geography of the Arab world
+611,8,Economy of Egypt 611,978-977-409-502-6,2000,177.27,366,This is a fascinating book about economic development in Egypt
+612,20,Sports in Egypt 612,978-977-567-337-4,2008,152.96,989,This is a fascinating book about sports and athletics in Egypt
+613,17,Chemistry Today 613,978-977-167-397-5,2013,163.05,501,This is a fascinating book about chemistry in daily life
+614,16,Physics Explained 614,978-977-968-104-9,2015,174.25,557,This is a fascinating book about physics and astronomy
+615,17,Chemistry Today 615,978-977-380-366-6,2006,85.81,562,This is a fascinating book about chemistry in daily life
+616,12,Medical Guide 616,978-977-420-718-4,2021,178.66,546,This is a fascinating book about medical advancements in Egypt
+617,4,Science & Nature 617,978-977-120-679-6,2002,70.77,780,This is a fascinating book about scientific discoveries in Egypt
+618,3,Islamic Studies 618,978-977-962-958-7,2017,208.82,556,This is a fascinating book about religious studies and traditions
+619,1,The Literature Book 619,978-977-130-668-7,2011,134.73,373,This is a fascinating book about Egyptian literature and culture
+620,6,Philosophy Thoughts 620,978-977-695-586-9,2022,137.63,618,This is a fascinating book about philosophical thinking in Arabic culture
+621,18,Geography of Egypt 621,978-977-789-446-4,2022,189.73,747,This is a fascinating book about geography of the Arab world
+622,13,Egyptian Law 622,978-977-854-580-2,2018,124.39,257,This is a fascinating book about legal system in Egypt
+623,14,Agriculture Guide 623,978-977-959-862-2,2012,118.18,691,This is a fascinating book about agriculture in the Nile Valley
+624,3,Islamic Studies 624,978-977-533-714-1,2023,67.8,569,This is a fascinating book about religious studies and traditions
+625,17,Chemistry Today 625,978-977-987-980-1,2007,71.81,940,This is a fascinating book about chemistry in daily life
+626,8,Economy of Egypt 626,978-977-847-775-7,2005,95.95,782,This is a fascinating book about economic development in Egypt
+627,7,Egyptian Art 627,978-977-458-873-5,2008,160.87,159,This is a fascinating book about Egyptian art through the ages
+628,19,Travel Egypt 628,978-977-163-972-3,2009,237.6,158,This is a fascinating book about travel destinations in Egypt
+629,13,Egyptian Law 629,978-977-980-126-5,2007,195.26,160,This is a fascinating book about legal system in Egypt
+630,3,Islamic Studies 630,978-977-554-853-4,2016,160.61,306,This is a fascinating book about religious studies and traditions
+631,10,Health & Wellness 631,978-977-361-227-4,2019,183.29,308,This is a fascinating book about healthcare in Egyptian society
+632,10,Health & Wellness 632,978-977-921-417-6,2004,218.24,161,This is a fascinating book about healthcare in Egyptian society
+633,11,Engineering Principles 633,978-977-375-691-2,2001,116.68,554,This is a fascinating book about modern engineering in Egypt
+634,17,Chemistry Today 634,978-977-374-434-2,2019,112.99,278,This is a fascinating book about chemistry in daily life
+635,5,Children Stories 635,978-977-325-368-7,2001,132.03,797,This is a fascinating book about children education and entertainment
+636,13,Egyptian Law 636,978-977-949-478-7,2014,198.75,129,This is a fascinating book about legal system in Egypt
+637,6,Philosophy Thoughts 637,978-977-630-863-9,2015,56.45,115,This is a fascinating book about philosophical thinking in Arabic culture
+638,12,Medical Guide 638,978-977-685-804-8,2006,68.44,711,This is a fascinating book about medical advancements in Egypt
+639,6,Philosophy Thoughts 639,978-977-139-564-1,2002,110.99,958,This is a fascinating book about philosophical thinking in Arabic culture
+640,16,Physics Explained 640,978-977-137-492-5,2017,97.33,225,This is a fascinating book about physics and astronomy
+641,2,History of Egypt 641,978-977-382-540-9,2022,59.05,370,This is a fascinating book about ancient and modern Egyptian history
+642,10,Health & Wellness 642,978-977-241-231-3,2014,157.65,274,This is a fascinating book about healthcare in Egyptian society
+643,10,Health & Wellness 643,978-977-959-952-2,2012,98.94,820,This is a fascinating book about healthcare in Egyptian society
+644,6,Philosophy Thoughts 644,978-977-145-213-7,2015,102.24,416,This is a fascinating book about philosophical thinking in Arabic culture
+645,3,Islamic Studies 645,978-977-299-686-5,2022,151.87,471,This is a fascinating book about religious studies and traditions
+646,10,Health & Wellness 646,978-977-133-354-6,2021,191.41,570,This is a fascinating book about healthcare in Egyptian society
+647,18,Geography of Egypt 647,978-977-918-518-8,2014,99.37,131,This is a fascinating book about geography of the Arab world
+648,5,Children Stories 648,978-977-114-229-2,2015,230.35,788,This is a fascinating book about children education and entertainment
+649,5,Children Stories 649,978-977-190-425-5,2001,160.83,897,This is a fascinating book about children education and entertainment
+650,12,Medical Guide 650,978-977-767-178-4,2008,65.51,267,This is a fascinating book about medical advancements in Egypt
+651,8,Economy of Egypt 651,978-977-160-381-4,2023,126.72,363,This is a fascinating book about economic development in Egypt
+652,14,Agriculture Guide 652,978-977-516-393-3,2014,150.27,839,This is a fascinating book about agriculture in the Nile Valley
+653,15,Mathematics Basics 653,978-977-643-784-1,2013,82.55,314,This is a fascinating book about mathematical concepts
+654,13,Egyptian Law 654,978-977-242-272-4,2023,133.29,526,This is a fascinating book about legal system in Egypt
+655,11,Engineering Principles 655,978-977-563-761-9,2012,106.97,743,This is a fascinating book about modern engineering in Egypt
+656,12,Medical Guide 656,978-977-967-638-5,2010,168.41,625,This is a fascinating book about medical advancements in Egypt
+657,6,Philosophy Thoughts 657,978-977-561-763-4,2004,55.71,598,This is a fascinating book about philosophical thinking in Arabic culture
+658,16,Physics Explained 658,978-977-214-109-5,2015,165.29,202,This is a fascinating book about physics and astronomy
+659,5,Children Stories 659,978-977-840-275-1,2018,163.96,895,This is a fascinating book about children education and entertainment
+660,14,Agriculture Guide 660,978-977-306-842-3,2004,185.42,412,This is a fascinating book about agriculture in the Nile Valley
+661,10,Health & Wellness 661,978-977-539-909-1,2002,83.39,147,This is a fascinating book about healthcare in Egyptian society
+662,9,Political Analysis 662,978-977-897-733-5,2019,175.98,195,This is a fascinating book about political landscape of the Middle East
+663,20,Sports in Egypt 663,978-977-891-950-7,2012,130.57,616,This is a fascinating book about sports and athletics in Egypt
+664,14,Agriculture Guide 664,978-977-521-423-7,2021,199.35,969,This is a fascinating book about agriculture in the Nile Valley
+665,19,Travel Egypt 665,978-977-753-220-4,2000,86.52,741,This is a fascinating book about travel destinations in Egypt
+666,8,Economy of Egypt 666,978-977-566-667-2,2015,109.41,619,This is a fascinating book about economic development in Egypt
+667,5,Children Stories 667,978-977-419-351-7,2006,124.68,190,This is a fascinating book about children education and entertainment
+668,1,The Literature Book 668,978-977-716-887-7,2002,88.59,684,This is a fascinating book about Egyptian literature and culture
+669,2,History of Egypt 669,978-977-830-782-3,2012,230.08,486,This is a fascinating book about ancient and modern Egyptian history
+670,15,Mathematics Basics 670,978-977-861-862-2,2001,60.76,538,This is a fascinating book about mathematical concepts
+671,7,Egyptian Art 671,978-977-745-235-7,2005,204.75,777,This is a fascinating book about Egyptian art through the ages
+672,2,History of Egypt 672,978-977-496-506-7,2007,79.28,628,This is a fascinating book about ancient and modern Egyptian history
+673,19,Travel Egypt 673,978-977-986-607-7,2012,71.97,970,This is a fascinating book about travel destinations in Egypt
+674,19,Travel Egypt 674,978-977-715-310-7,2018,155.82,189,This is a fascinating book about travel destinations in Egypt
+675,12,Medical Guide 675,978-977-523-362-7,2003,64.53,332,This is a fascinating book about medical advancements in Egypt
+676,10,Health & Wellness 676,978-977-363-748-4,2010,141.76,698,This is a fascinating book about healthcare in Egyptian society
+677,20,Sports in Egypt 677,978-977-767-595-4,2017,239.14,369,This is a fascinating book about sports and athletics in Egypt
+678,16,Physics Explained 678,978-977-616-260-5,2012,201.53,383,This is a fascinating book about physics and astronomy
+679,18,Geography of Egypt 679,978-977-334-213-2,2019,90.4,772,This is a fascinating book about geography of the Arab world
+680,1,The Literature Book 680,978-977-265-337-6,2009,149.96,523,This is a fascinating book about Egyptian literature and culture
+681,8,Economy of Egypt 681,978-977-634-191-7,2007,235.72,892,This is a fascinating book about economic development in Egypt
+682,1,The Literature Book 682,978-977-655-530-2,2004,103.7,337,This is a fascinating book about Egyptian literature and culture
+683,18,Geography of Egypt 683,978-977-736-206-1,2012,143.94,508,This is a fascinating book about geography of the Arab world
+684,4,Science & Nature 684,978-977-478-135-6,2009,248.13,446,This is a fascinating book about scientific discoveries in Egypt
+685,3,Islamic Studies 685,978-977-145-154-6,2009,231.56,271,This is a fascinating book about religious studies and traditions
+686,17,Chemistry Today 686,978-977-109-583-6,2006,138.01,187,This is a fascinating book about chemistry in daily life
+687,18,Geography of Egypt 687,978-977-723-615-9,2020,176.38,796,This is a fascinating book about geography of the Arab world
+688,1,The Literature Book 688,978-977-851-603-5,2000,62.79,745,This is a fascinating book about Egyptian literature and culture
+689,16,Physics Explained 689,978-977-640-877-7,2009,132.29,383,This is a fascinating book about physics and astronomy
+690,5,Children Stories 690,978-977-113-413-5,2023,239.97,829,This is a fascinating book about children education and entertainment
+691,16,Physics Explained 691,978-977-257-477-5,2011,166.4,389,This is a fascinating book about physics and astronomy
+692,14,Agriculture Guide 692,978-977-627-577-2,2001,101.01,230,This is a fascinating book about agriculture in the Nile Valley
+693,7,Egyptian Art 693,978-977-308-730-5,2023,117.46,143,This is a fascinating book about Egyptian art through the ages
+694,16,Physics Explained 694,978-977-396-688-3,2022,51.93,324,This is a fascinating book about physics and astronomy
+695,9,Political Analysis 695,978-977-987-430-7,2012,77.45,289,This is a fascinating book about political landscape of the Middle East
+696,20,Sports in Egypt 696,978-977-518-624-7,2010,231.65,545,This is a fascinating book about sports and athletics in Egypt
+697,1,The Literature Book 697,978-977-196-781-1,2016,77.43,627,This is a fascinating book about Egyptian literature and culture
+698,18,Geography of Egypt 698,978-977-906-276-2,2023,86.52,520,This is a fascinating book about geography of the Arab world
+699,9,Political Analysis 699,978-977-319-329-3,2001,230.12,913,This is a fascinating book about political landscape of the Middle East
+700,17,Chemistry Today 700,978-977-523-474-9,2014,79.91,754,This is a fascinating book about chemistry in daily life
+701,15,Mathematics Basics 701,978-977-789-806-1,2015,209.76,689,This is a fascinating book about mathematical concepts
+702,5,Children Stories 702,978-977-128-296-3,2017,81.84,730,This is a fascinating book about children education and entertainment
+703,14,Agriculture Guide 703,978-977-815-785-2,2020,171.58,422,This is a fascinating book about agriculture in the Nile Valley
+704,14,Agriculture Guide 704,978-977-241-135-5,2008,50.64,454,This is a fascinating book about agriculture in the Nile Valley
+705,7,Egyptian Art 705,978-977-854-570-6,2022,91.17,152,This is a fascinating book about Egyptian art through the ages
+706,4,Science & Nature 706,978-977-173-235-7,2012,124.5,984,This is a fascinating book about scientific discoveries in Egypt
+707,14,Agriculture Guide 707,978-977-329-238-3,2009,212.57,436,This is a fascinating book about agriculture in the Nile Valley
+708,14,Agriculture Guide 708,978-977-953-425-3,2018,191.55,735,This is a fascinating book about agriculture in the Nile Valley
+709,20,Sports in Egypt 709,978-977-501-140-7,2001,92.58,228,This is a fascinating book about sports and athletics in Egypt
+710,18,Geography of Egypt 710,978-977-255-990-9,2011,139.0,858,This is a fascinating book about geography of the Arab world
+711,6,Philosophy Thoughts 711,978-977-812-443-1,2001,187.54,841,This is a fascinating book about philosophical thinking in Arabic culture
+712,13,Egyptian Law 712,978-977-334-247-3,2009,151.86,151,This is a fascinating book about legal system in Egypt
+713,17,Chemistry Today 713,978-977-127-176-2,2012,120.97,953,This is a fascinating book about chemistry in daily life
+714,10,Health & Wellness 714,978-977-788-339-3,2001,113.33,790,This is a fascinating book about healthcare in Egyptian society
+715,14,Agriculture Guide 715,978-977-726-218-1,2017,180.14,860,This is a fascinating book about agriculture in the Nile Valley
+716,5,Children Stories 716,978-977-907-458-8,2013,63.71,523,This is a fascinating book about children education and entertainment
+717,3,Islamic Studies 717,978-977-896-305-5,2006,207.78,119,This is a fascinating book about religious studies and traditions
+718,4,Science & Nature 718,978-977-880-711-3,2010,153.46,559,This is a fascinating book about scientific discoveries in Egypt
+719,2,History of Egypt 719,978-977-923-132-5,2006,53.18,341,This is a fascinating book about ancient and modern Egyptian history
+720,3,Islamic Studies 720,978-977-747-340-5,2004,225.01,578,This is a fascinating book about religious studies and traditions
+721,20,Sports in Egypt 721,978-977-977-233-4,2013,107.84,616,This is a fascinating book about sports and athletics in Egypt
+722,10,Health & Wellness 722,978-977-309-293-1,2022,134.69,977,This is a fascinating book about healthcare in Egyptian society
+723,1,The Literature Book 723,978-977-333-881-6,2009,176.43,175,This is a fascinating book about Egyptian literature and culture
+724,18,Geography of Egypt 724,978-977-260-190-2,2001,53.44,927,This is a fascinating book about geography of the Arab world
+725,12,Medical Guide 725,978-977-787-257-9,2000,226.28,906,This is a fascinating book about medical advancements in Egypt
+726,8,Economy of Egypt 726,978-977-495-883-8,2001,122.98,550,This is a fascinating book about economic development in Egypt
+727,6,Philosophy Thoughts 727,978-977-908-888-1,2005,148.9,945,This is a fascinating book about philosophical thinking in Arabic culture
+728,9,Political Analysis 728,978-977-616-286-9,2006,246.11,670,This is a fascinating book about political landscape of the Middle East
+729,1,The Literature Book 729,978-977-719-676-2,2017,233.18,397,This is a fascinating book about Egyptian literature and culture
+730,17,Chemistry Today 730,978-977-856-385-3,2016,167.65,106,This is a fascinating book about chemistry in daily life
+731,18,Geography of Egypt 731,978-977-328-619-2,2006,207.18,475,This is a fascinating book about geography of the Arab world
+732,11,Engineering Principles 732,978-977-762-964-5,2014,247.41,876,This is a fascinating book about modern engineering in Egypt
+733,5,Children Stories 733,978-977-557-890-4,2013,188.04,872,This is a fascinating book about children education and entertainment
+734,4,Science & Nature 734,978-977-117-370-2,2009,201.32,689,This is a fascinating book about scientific discoveries in Egypt
+735,16,Physics Explained 735,978-977-970-766-1,2021,237.3,976,This is a fascinating book about physics and astronomy
+736,5,Children Stories 736,978-977-859-917-6,2017,173.14,956,This is a fascinating book about children education and entertainment
+737,19,Travel Egypt 737,978-977-233-940-8,2014,127.14,452,This is a fascinating book about travel destinations in Egypt
+738,6,Philosophy Thoughts 738,978-977-583-327-4,2007,185.7,217,This is a fascinating book about philosophical thinking in Arabic culture
+739,13,Egyptian Law 739,978-977-998-962-5,2015,196.68,462,This is a fascinating book about legal system in Egypt
+740,13,Egyptian Law 740,978-977-659-265-1,2010,111.83,859,This is a fascinating book about legal system in Egypt
+741,16,Physics Explained 741,978-977-657-867-2,2017,90.08,984,This is a fascinating book about physics and astronomy
+742,1,The Literature Book 742,978-977-795-354-7,2002,153.3,288,This is a fascinating book about Egyptian literature and culture
+743,1,The Literature Book 743,978-977-157-701-5,2016,180.58,316,This is a fascinating book about Egyptian literature and culture
+744,18,Geography of Egypt 744,978-977-768-500-9,2002,231.74,593,This is a fascinating book about geography of the Arab world
+745,3,Islamic Studies 745,978-977-960-696-3,2015,180.42,610,This is a fascinating book about religious studies and traditions
+746,19,Travel Egypt 746,978-977-304-409-7,2021,98.77,734,This is a fascinating book about travel destinations in Egypt
+747,5,Children Stories 747,978-977-562-266-3,2022,241.7,147,This is a fascinating book about children education and entertainment
+748,17,Chemistry Today 748,978-977-717-732-9,2012,232.9,770,This is a fascinating book about chemistry in daily life
+749,16,Physics Explained 749,978-977-485-874-7,2020,74.3,923,This is a fascinating book about physics and astronomy
+750,14,Agriculture Guide 750,978-977-378-702-9,2008,149.73,795,This is a fascinating book about agriculture in the Nile Valley
+751,4,Science & Nature 751,978-977-768-580-3,2013,121.44,716,This is a fascinating book about scientific discoveries in Egypt
+752,7,Egyptian Art 752,978-977-849-792-6,2016,208.54,475,This is a fascinating book about Egyptian art through the ages
+753,13,Egyptian Law 753,978-977-942-792-5,2005,54.32,112,This is a fascinating book about legal system in Egypt
+754,2,History of Egypt 754,978-977-576-868-6,2000,219.81,575,This is a fascinating book about ancient and modern Egyptian history
+755,12,Medical Guide 755,978-977-754-989-6,2007,198.93,188,This is a fascinating book about medical advancements in Egypt
+756,10,Health & Wellness 756,978-977-668-506-5,2007,133.58,935,This is a fascinating book about healthcare in Egyptian society
+757,8,Economy of Egypt 757,978-977-112-473-1,2006,228.29,542,This is a fascinating book about economic development in Egypt
+758,7,Egyptian Art 758,978-977-427-432-9,2012,83.48,193,This is a fascinating book about Egyptian art through the ages
+759,1,The Literature Book 759,978-977-341-807-8,2002,239.0,597,This is a fascinating book about Egyptian literature and culture
+760,16,Physics Explained 760,978-977-595-964-5,2016,226.3,233,This is a fascinating book about physics and astronomy
+761,8,Economy of Egypt 761,978-977-815-517-6,2003,78.05,689,This is a fascinating book about economic development in Egypt
+762,10,Health & Wellness 762,978-977-626-385-6,2006,133.63,424,This is a fascinating book about healthcare in Egyptian society
+763,1,The Literature Book 763,978-977-815-750-7,2008,68.54,663,This is a fascinating book about Egyptian literature and culture
+764,9,Political Analysis 764,978-977-780-883-7,2007,184.08,580,This is a fascinating book about political landscape of the Middle East
+765,10,Health & Wellness 765,978-977-294-640-4,2001,189.72,951,This is a fascinating book about healthcare in Egyptian society
+766,11,Engineering Principles 766,978-977-654-717-3,2016,249.63,337,This is a fascinating book about modern engineering in Egypt
+767,4,Science & Nature 767,978-977-626-241-2,2009,106.78,283,This is a fascinating book about scientific discoveries in Egypt
+768,13,Egyptian Law 768,978-977-116-355-7,2012,230.68,372,This is a fascinating book about legal system in Egypt
+769,1,The Literature Book 769,978-977-313-579-2,2007,198.25,452,This is a fascinating book about Egyptian literature and culture
+770,10,Health & Wellness 770,978-977-521-773-2,2013,215.18,522,This is a fascinating book about healthcare in Egyptian society
+771,18,Geography of Egypt 771,978-977-804-947-5,2010,76.39,154,This is a fascinating book about geography of the Arab world
+772,5,Children Stories 772,978-977-750-156-9,2014,103.65,654,This is a fascinating book about children education and entertainment
+773,13,Egyptian Law 773,978-977-484-817-5,2002,148.67,391,This is a fascinating book about legal system in Egypt
+774,15,Mathematics Basics 774,978-977-816-946-1,2013,226.25,558,This is a fascinating book about mathematical concepts
+775,16,Physics Explained 775,978-977-537-640-6,2012,131.39,885,This is a fascinating book about physics and astronomy
+776,2,History of Egypt 776,978-977-617-518-8,2023,225.87,499,This is a fascinating book about ancient and modern Egyptian history
+777,10,Health & Wellness 777,978-977-722-374-1,2001,176.22,379,This is a fascinating book about healthcare in Egyptian society
+778,14,Agriculture Guide 778,978-977-784-512-1,2002,149.89,561,This is a fascinating book about agriculture in the Nile Valley
+779,3,Islamic Studies 779,978-977-423-399-3,2011,92.97,998,This is a fascinating book about religious studies and traditions
+780,2,History of Egypt 780,978-977-401-573-3,2011,73.93,187,This is a fascinating book about ancient and modern Egyptian history
+781,11,Engineering Principles 781,978-977-683-918-8,2003,181.2,717,This is a fascinating book about modern engineering in Egypt
+782,2,History of Egypt 782,978-977-955-117-4,2017,158.46,222,This is a fascinating book about ancient and modern Egyptian history
+783,1,The Literature Book 783,978-977-173-532-8,2000,125.75,386,This is a fascinating book about Egyptian literature and culture
+784,7,Egyptian Art 784,978-977-676-715-4,2012,112.27,386,This is a fascinating book about Egyptian art through the ages
+785,3,Islamic Studies 785,978-977-140-643-9,2003,249.16,557,This is a fascinating book about religious studies and traditions
+786,18,Geography of Egypt 786,978-977-342-845-4,2005,110.34,836,This is a fascinating book about geography of the Arab world
+787,19,Travel Egypt 787,978-977-331-333-1,2011,164.1,447,This is a fascinating book about travel destinations in Egypt
+788,20,Sports in Egypt 788,978-977-872-801-5,2020,213.43,249,This is a fascinating book about sports and athletics in Egypt
+789,20,Sports in Egypt 789,978-977-646-815-3,2023,138.29,660,This is a fascinating book about sports and athletics in Egypt
+790,17,Chemistry Today 790,978-977-484-496-3,2016,125.07,452,This is a fascinating book about chemistry in daily life
+791,3,Islamic Studies 791,978-977-658-517-2,2017,169.28,798,This is a fascinating book about religious studies and traditions
+792,13,Egyptian Law 792,978-977-134-418-6,2004,237.91,571,This is a fascinating book about legal system in Egypt
+793,20,Sports in Egypt 793,978-977-773-965-7,2009,202.22,834,This is a fascinating book about sports and athletics in Egypt
+794,1,The Literature Book 794,978-977-116-108-4,2013,112.71,516,This is a fascinating book about Egyptian literature and culture
+795,4,Science & Nature 795,978-977-175-953-4,2023,127.79,704,This is a fascinating book about scientific discoveries in Egypt
+796,3,Islamic Studies 796,978-977-514-828-5,2022,213.28,592,This is a fascinating book about religious studies and traditions
+797,18,Geography of Egypt 797,978-977-379-183-5,2019,220.47,968,This is a fascinating book about geography of the Arab world
+798,12,Medical Guide 798,978-977-472-701-6,2014,80.05,317,This is a fascinating book about medical advancements in Egypt
+799,18,Geography of Egypt 799,978-977-547-104-2,2021,138.29,886,This is a fascinating book about geography of the Arab world
+800,13,Egyptian Law 800,978-977-249-137-2,2011,76.15,817,This is a fascinating book about legal system in Egypt
+801,2,History of Egypt 801,978-977-664-982-7,2023,207.59,284,This is a fascinating book about ancient and modern Egyptian history
+802,10,Health & Wellness 802,978-977-157-201-1,2002,158.8,690,This is a fascinating book about healthcare in Egyptian society
+803,12,Medical Guide 803,978-977-597-386-8,2022,182.99,922,This is a fascinating book about medical advancements in Egypt
+804,15,Mathematics Basics 804,978-977-269-315-8,2014,232.19,203,This is a fascinating book about mathematical concepts
+805,4,Science & Nature 805,978-977-840-797-7,2014,159.55,383,This is a fascinating book about scientific discoveries in Egypt
+806,18,Geography of Egypt 806,978-977-512-824-6,2020,146.82,875,This is a fascinating book about geography of the Arab world
+807,4,Science & Nature 807,978-977-885-795-8,2008,198.27,817,This is a fascinating book about scientific discoveries in Egypt
+808,7,Egyptian Art 808,978-977-937-187-4,2005,233.39,723,This is a fascinating book about Egyptian art through the ages
+809,20,Sports in Egypt 809,978-977-846-770-6,2004,66.18,414,This is a fascinating book about sports and athletics in Egypt
+810,18,Geography of Egypt 810,978-977-102-164-2,2000,160.28,431,This is a fascinating book about geography of the Arab world
+811,2,History of Egypt 811,978-977-751-183-3,2011,223.59,856,This is a fascinating book about ancient and modern Egyptian history
+812,20,Sports in Egypt 812,978-977-951-180-2,2021,119.48,357,This is a fascinating book about sports and athletics in Egypt
+813,16,Physics Explained 813,978-977-272-335-1,2020,246.86,404,This is a fascinating book about physics and astronomy
+814,12,Medical Guide 814,978-977-555-765-4,2023,160.37,910,This is a fascinating book about medical advancements in Egypt
+815,8,Economy of Egypt 815,978-977-473-586-4,2010,75.93,442,This is a fascinating book about economic development in Egypt
+816,3,Islamic Studies 816,978-977-664-517-7,2003,171.99,269,This is a fascinating book about religious studies and traditions
+817,7,Egyptian Art 817,978-977-297-362-3,2009,216.7,965,This is a fascinating book about Egyptian art through the ages
+818,20,Sports in Egypt 818,978-977-234-130-1,2019,78.09,286,This is a fascinating book about sports and athletics in Egypt
+819,3,Islamic Studies 819,978-977-110-631-9,2000,57.53,304,This is a fascinating book about religious studies and traditions
+820,4,Science & Nature 820,978-977-132-606-5,2018,51.21,702,This is a fascinating book about scientific discoveries in Egypt
+821,8,Economy of Egypt 821,978-977-184-167-6,2004,119.15,273,This is a fascinating book about economic development in Egypt
+822,9,Political Analysis 822,978-977-585-404-3,2008,132.13,552,This is a fascinating book about political landscape of the Middle East
+823,10,Health & Wellness 823,978-977-713-475-8,2000,243.4,474,This is a fascinating book about healthcare in Egyptian society
+824,3,Islamic Studies 824,978-977-568-894-5,2011,170.3,145,This is a fascinating book about religious studies and traditions
+825,3,Islamic Studies 825,978-977-888-146-4,2000,100.58,947,This is a fascinating book about religious studies and traditions
+826,14,Agriculture Guide 826,978-977-939-238-9,2018,241.6,672,This is a fascinating book about agriculture in the Nile Valley
+827,8,Economy of Egypt 827,978-977-672-999-8,2020,172.87,660,This is a fascinating book about economic development in Egypt
+828,19,Travel Egypt 828,978-977-365-560-7,2008,80.98,777,This is a fascinating book about travel destinations in Egypt
+829,4,Science & Nature 829,978-977-957-730-6,2021,95.21,399,This is a fascinating book about scientific discoveries in Egypt
+830,19,Travel Egypt 830,978-977-369-789-5,2013,56.52,444,This is a fascinating book about travel destinations in Egypt
+831,12,Medical Guide 831,978-977-144-622-1,2015,208.58,412,This is a fascinating book about medical advancements in Egypt
+832,13,Egyptian Law 832,978-977-896-596-7,2000,119.16,104,This is a fascinating book about legal system in Egypt
+833,10,Health & Wellness 833,978-977-473-490-5,2010,189.81,894,This is a fascinating book about healthcare in Egyptian society
+834,15,Mathematics Basics 834,978-977-594-299-8,2011,127.56,891,This is a fascinating book about mathematical concepts
+835,19,Travel Egypt 835,978-977-387-980-5,2012,163.93,559,This is a fascinating book about travel destinations in Egypt
+836,12,Medical Guide 836,978-977-448-122-2,2010,244.73,151,This is a fascinating book about medical advancements in Egypt
+837,9,Political Analysis 837,978-977-147-963-2,2015,249.04,821,This is a fascinating book about political landscape of the Middle East
+838,3,Islamic Studies 838,978-977-988-584-8,2008,124.38,222,This is a fascinating book about religious studies and traditions
+839,9,Political Analysis 839,978-977-392-334-7,2019,124.12,622,This is a fascinating book about political landscape of the Middle East
+840,20,Sports in Egypt 840,978-977-566-980-7,2001,135.48,445,This is a fascinating book about sports and athletics in Egypt
+841,4,Science & Nature 841,978-977-787-923-8,2007,196.07,385,This is a fascinating book about scientific discoveries in Egypt
+842,3,Islamic Studies 842,978-977-263-236-6,2001,107.24,196,This is a fascinating book about religious studies and traditions
+843,5,Children Stories 843,978-977-189-988-5,2022,218.71,169,This is a fascinating book about children education and entertainment
+844,15,Mathematics Basics 844,978-977-250-716-4,2007,133.38,639,This is a fascinating book about mathematical concepts
+845,5,Children Stories 845,978-977-850-406-7,2006,225.55,655,This is a fascinating book about children education and entertainment
+846,4,Science & Nature 846,978-977-778-214-9,2013,95.98,796,This is a fascinating book about scientific discoveries in Egypt
+847,11,Engineering Principles 847,978-977-627-480-1,2011,163.66,396,This is a fascinating book about modern engineering in Egypt
+848,6,Philosophy Thoughts 848,978-977-471-957-4,2007,58.97,596,This is a fascinating book about philosophical thinking in Arabic culture
+849,9,Political Analysis 849,978-977-278-104-5,2002,54.69,313,This is a fascinating book about political landscape of the Middle East
+850,3,Islamic Studies 850,978-977-771-475-8,2004,232.72,180,This is a fascinating book about religious studies and traditions
+851,15,Mathematics Basics 851,978-977-934-359-6,2009,221.01,749,This is a fascinating book about mathematical concepts
+852,11,Engineering Principles 852,978-977-141-130-1,2009,239.79,673,This is a fascinating book about modern engineering in Egypt
+853,4,Science & Nature 853,978-977-464-557-1,2015,151.97,691,This is a fascinating book about scientific discoveries in Egypt
+854,20,Sports in Egypt 854,978-977-351-915-9,2008,155.1,560,This is a fascinating book about sports and athletics in Egypt
+855,18,Geography of Egypt 855,978-977-709-997-3,2020,146.69,270,This is a fascinating book about geography of the Arab world
+856,15,Mathematics Basics 856,978-977-698-673-4,2023,233.37,102,This is a fascinating book about mathematical concepts
+857,3,Islamic Studies 857,978-977-268-860-4,2022,60.36,233,This is a fascinating book about religious studies and traditions
+858,1,The Literature Book 858,978-977-569-341-3,2014,219.38,887,This is a fascinating book about Egyptian literature and culture
+859,19,Travel Egypt 859,978-977-638-477-7,2007,67.61,416,This is a fascinating book about travel destinations in Egypt
+860,1,The Literature Book 860,978-977-423-749-1,2003,91.93,281,This is a fascinating book about Egyptian literature and culture
+861,19,Travel Egypt 861,978-977-603-753-7,2016,188.97,262,This is a fascinating book about travel destinations in Egypt
+862,10,Health & Wellness 862,978-977-255-956-3,2011,160.96,215,This is a fascinating book about healthcare in Egyptian society
+863,17,Chemistry Today 863,978-977-849-974-4,2010,183.04,543,This is a fascinating book about chemistry in daily life
+864,2,History of Egypt 864,978-977-982-462-9,2008,104.77,557,This is a fascinating book about ancient and modern Egyptian history
+865,6,Philosophy Thoughts 865,978-977-385-113-2,2018,150.88,788,This is a fascinating book about philosophical thinking in Arabic culture
+866,14,Agriculture Guide 866,978-977-533-842-3,2006,178.4,255,This is a fascinating book about agriculture in the Nile Valley
+867,15,Mathematics Basics 867,978-977-505-803-2,2022,92.12,672,This is a fascinating book about mathematical concepts
+868,5,Children Stories 868,978-977-335-738-5,2007,163.34,394,This is a fascinating book about children education and entertainment
+869,14,Agriculture Guide 869,978-977-460-319-8,2001,192.32,552,This is a fascinating book about agriculture in the Nile Valley
+870,7,Egyptian Art 870,978-977-866-132-3,2014,77.14,580,This is a fascinating book about Egyptian art through the ages
+871,3,Islamic Studies 871,978-977-345-633-3,2001,243.22,507,This is a fascinating book about religious studies and traditions
+872,17,Chemistry Today 872,978-977-823-333-7,2021,159.66,960,This is a fascinating book about chemistry in daily life
+873,20,Sports in Egypt 873,978-977-367-580-9,2010,148.67,450,This is a fascinating book about sports and athletics in Egypt
+874,6,Philosophy Thoughts 874,978-977-310-147-4,2014,173.76,122,This is a fascinating book about philosophical thinking in Arabic culture
+875,17,Chemistry Today 875,978-977-357-308-4,2011,127.14,856,This is a fascinating book about chemistry in daily life
+876,3,Islamic Studies 876,978-977-496-620-1,2008,227.05,510,This is a fascinating book about religious studies and traditions
+877,10,Health & Wellness 877,978-977-363-756-5,2015,202.64,914,This is a fascinating book about healthcare in Egyptian society
+878,20,Sports in Egypt 878,978-977-850-174-5,2002,50.82,633,This is a fascinating book about sports and athletics in Egypt
+879,6,Philosophy Thoughts 879,978-977-190-395-7,2006,107.5,766,This is a fascinating book about philosophical thinking in Arabic culture
+880,9,Political Analysis 880,978-977-738-204-3,2019,227.92,744,This is a fascinating book about political landscape of the Middle East
+881,12,Medical Guide 881,978-977-647-869-6,2017,150.03,889,This is a fascinating book about medical advancements in Egypt
+882,12,Medical Guide 882,978-977-102-384-4,2010,191.38,459,This is a fascinating book about medical advancements in Egypt
+883,2,History of Egypt 883,978-977-262-440-8,2015,133.41,187,This is a fascinating book about ancient and modern Egyptian history
+884,3,Islamic Studies 884,978-977-149-235-2,2013,107.9,108,This is a fascinating book about religious studies and traditions
+885,19,Travel Egypt 885,978-977-989-470-6,2012,65.26,173,This is a fascinating book about travel destinations in Egypt
+886,2,History of Egypt 886,978-977-594-684-1,2003,76.08,871,This is a fascinating book about ancient and modern Egyptian history
+887,16,Physics Explained 887,978-977-523-331-4,2013,217.22,893,This is a fascinating book about physics and astronomy
+888,6,Philosophy Thoughts 888,978-977-647-347-8,2011,80.36,718,This is a fascinating book about philosophical thinking in Arabic culture
+889,6,Philosophy Thoughts 889,978-977-661-357-4,2012,132.36,305,This is a fascinating book about philosophical thinking in Arabic culture
+890,4,Science & Nature 890,978-977-783-738-2,2015,177.49,362,This is a fascinating book about scientific discoveries in Egypt
+891,13,Egyptian Law 891,978-977-548-837-1,2016,87.61,511,This is a fascinating book about legal system in Egypt
+892,1,The Literature Book 892,978-977-974-835-1,2022,164.04,555,This is a fascinating book about Egyptian literature and culture
+893,18,Geography of Egypt 893,978-977-146-697-4,2016,195.69,169,This is a fascinating book about geography of the Arab world
+894,14,Agriculture Guide 894,978-977-803-392-1,2023,88.22,580,This is a fascinating book about agriculture in the Nile Valley
+895,20,Sports in Egypt 895,978-977-869-623-4,2016,187.0,912,This is a fascinating book about sports and athletics in Egypt
+896,19,Travel Egypt 896,978-977-307-642-3,2020,238.61,283,This is a fascinating book about travel destinations in Egypt
+897,9,Political Analysis 897,978-977-899-636-2,2009,153.0,531,This is a fascinating book about political landscape of the Middle East
+898,4,Science & Nature 898,978-977-402-404-3,2023,208.88,458,This is a fascinating book about scientific discoveries in Egypt
+899,10,Health & Wellness 899,978-977-227-482-3,2017,199.38,328,This is a fascinating book about healthcare in Egyptian society
+900,5,Children Stories 900,978-977-252-237-4,2002,247.74,411,This is a fascinating book about children education and entertainment
+901,10,Health & Wellness 901,978-977-481-580-6,2000,142.02,133,This is a fascinating book about healthcare in Egyptian society
+902,2,History of Egypt 902,978-977-815-970-8,2021,98.7,126,This is a fascinating book about ancient and modern Egyptian history
+903,3,Islamic Studies 903,978-977-815-906-8,2005,64.48,512,This is a fascinating book about religious studies and traditions
+904,6,Philosophy Thoughts 904,978-977-130-558-3,2010,163.76,221,This is a fascinating book about philosophical thinking in Arabic culture
+905,9,Political Analysis 905,978-977-141-836-8,2013,98.14,955,This is a fascinating book about political landscape of the Middle East
+906,17,Chemistry Today 906,978-977-968-243-4,2019,93.79,578,This is a fascinating book about chemistry in daily life
+907,8,Economy of Egypt 907,978-977-965-838-6,2010,121.43,625,This is a fascinating book about economic development in Egypt
+908,5,Children Stories 908,978-977-859-462-9,2000,146.12,827,This is a fascinating book about children education and entertainment
+909,14,Agriculture Guide 909,978-977-798-852-4,2014,203.1,742,This is a fascinating book about agriculture in the Nile Valley
+910,6,Philosophy Thoughts 910,978-977-601-271-4,2000,142.16,704,This is a fascinating book about philosophical thinking in Arabic culture
+911,17,Chemistry Today 911,978-977-383-854-7,2012,112.85,432,This is a fascinating book about chemistry in daily life
+912,15,Mathematics Basics 912,978-977-702-113-2,2021,101.23,323,This is a fascinating book about mathematical concepts
+913,12,Medical Guide 913,978-977-157-119-4,2009,156.18,875,This is a fascinating book about medical advancements in Egypt
+914,16,Physics Explained 914,978-977-523-747-6,2011,108.92,772,This is a fascinating book about physics and astronomy
+915,17,Chemistry Today 915,978-977-350-806-3,2009,239.01,965,This is a fascinating book about chemistry in daily life
+916,15,Mathematics Basics 916,978-977-255-537-3,2016,233.11,761,This is a fascinating book about mathematical concepts
+917,14,Agriculture Guide 917,978-977-458-180-2,2013,87.21,832,This is a fascinating book about agriculture in the Nile Valley
+918,6,Philosophy Thoughts 918,978-977-213-538-3,2022,216.21,876,This is a fascinating book about philosophical thinking in Arabic culture
+919,10,Health & Wellness 919,978-977-149-372-7,2001,169.1,709,This is a fascinating book about healthcare in Egyptian society
+920,6,Philosophy Thoughts 920,978-977-340-946-8,2006,147.21,998,This is a fascinating book about philosophical thinking in Arabic culture
+921,7,Egyptian Art 921,978-977-466-662-5,2019,156.4,527,This is a fascinating book about Egyptian art through the ages
+922,16,Physics Explained 922,978-977-805-651-6,2010,246.25,819,This is a fascinating book about physics and astronomy
+923,4,Science & Nature 923,978-977-993-922-2,2019,149.87,981,This is a fascinating book about scientific discoveries in Egypt
+924,2,History of Egypt 924,978-977-466-247-9,2012,196.23,296,This is a fascinating book about ancient and modern Egyptian history
+925,3,Islamic Studies 925,978-977-658-422-6,2002,64.95,551,This is a fascinating book about religious studies and traditions
+926,15,Mathematics Basics 926,978-977-706-358-2,2001,64.91,541,This is a fascinating book about mathematical concepts
+927,20,Sports in Egypt 927,978-977-493-461-4,2001,195.53,575,This is a fascinating book about sports and athletics in Egypt
+928,17,Chemistry Today 928,978-977-798-206-1,2010,235.84,216,This is a fascinating book about chemistry in daily life
+929,4,Science & Nature 929,978-977-664-824-3,2004,197.89,778,This is a fascinating book about scientific discoveries in Egypt
+930,10,Health & Wellness 930,978-977-701-944-3,2006,232.52,913,This is a fascinating book about healthcare in Egyptian society
+931,6,Philosophy Thoughts 931,978-977-659-963-9,2021,122.11,630,This is a fascinating book about philosophical thinking in Arabic culture
+932,14,Agriculture Guide 932,978-977-123-635-6,2012,189.85,431,This is a fascinating book about agriculture in the Nile Valley
+933,1,The Literature Book 933,978-977-501-989-8,2004,140.94,817,This is a fascinating book about Egyptian literature and culture
+934,2,History of Egypt 934,978-977-183-190-8,2007,84.39,792,This is a fascinating book about ancient and modern Egyptian history
+935,3,Islamic Studies 935,978-977-515-696-8,2013,98.57,810,This is a fascinating book about religious studies and traditions
+936,20,Sports in Egypt 936,978-977-680-549-3,2017,157.52,427,This is a fascinating book about sports and athletics in Egypt
+937,11,Engineering Principles 937,978-977-245-609-9,2016,164.51,628,This is a fascinating book about modern engineering in Egypt
+938,16,Physics Explained 938,978-977-260-810-8,2006,92.58,181,This is a fascinating book about physics and astronomy
+939,2,History of Egypt 939,978-977-721-274-4,2008,113.97,689,This is a fascinating book about ancient and modern Egyptian history
+940,4,Science & Nature 940,978-977-914-980-1,2023,87.48,804,This is a fascinating book about scientific discoveries in Egypt
+941,17,Chemistry Today 941,978-977-943-921-4,2001,60.5,461,This is a fascinating book about chemistry in daily life
+942,6,Philosophy Thoughts 942,978-977-446-955-7,2021,167.61,864,This is a fascinating book about philosophical thinking in Arabic culture
+943,1,The Literature Book 943,978-977-677-811-4,2004,173.92,711,This is a fascinating book about Egyptian literature and culture
+944,20,Sports in Egypt 944,978-977-231-870-1,2013,77.61,484,This is a fascinating book about sports and athletics in Egypt
+945,10,Health & Wellness 945,978-977-700-540-2,2021,115.38,974,This is a fascinating book about healthcare in Egyptian society
+946,8,Economy of Egypt 946,978-977-200-177-2,2006,226.43,819,This is a fascinating book about economic development in Egypt
+947,5,Children Stories 947,978-977-968-293-3,2016,201.85,767,This is a fascinating book about children education and entertainment
+948,2,History of Egypt 948,978-977-469-984-2,2011,145.76,112,This is a fascinating book about ancient and modern Egyptian history
+949,15,Mathematics Basics 949,978-977-448-137-3,2002,248.37,225,This is a fascinating book about mathematical concepts
+950,15,Mathematics Basics 950,978-977-290-235-3,2003,209.25,172,This is a fascinating book about mathematical concepts
+951,13,Egyptian Law 951,978-977-838-992-7,2000,81.4,773,This is a fascinating book about legal system in Egypt
+952,11,Engineering Principles 952,978-977-892-299-2,2020,245.6,855,This is a fascinating book about modern engineering in Egypt
+953,4,Science & Nature 953,978-977-474-878-7,2015,61.07,816,This is a fascinating book about scientific discoveries in Egypt
+954,11,Engineering Principles 954,978-977-981-215-3,2023,104.74,651,This is a fascinating book about modern engineering in Egypt
+955,16,Physics Explained 955,978-977-820-977-9,2003,151.86,663,This is a fascinating book about physics and astronomy
+956,9,Political Analysis 956,978-977-584-648-6,2007,212.49,891,This is a fascinating book about political landscape of the Middle East
+957,2,History of Egypt 957,978-977-356-971-4,2016,117.34,288,This is a fascinating book about ancient and modern Egyptian history
+958,6,Philosophy Thoughts 958,978-977-874-940-7,2015,198.75,385,This is a fascinating book about philosophical thinking in Arabic culture
+959,1,The Literature Book 959,978-977-556-597-9,2022,239.53,904,This is a fascinating book about Egyptian literature and culture
+960,14,Agriculture Guide 960,978-977-266-866-4,2017,244.86,748,This is a fascinating book about agriculture in the Nile Valley
+961,5,Children Stories 961,978-977-171-480-7,2011,79.78,443,This is a fascinating book about children education and entertainment
+962,5,Children Stories 962,978-977-301-797-8,2007,158.95,113,This is a fascinating book about children education and entertainment
+963,9,Political Analysis 963,978-977-415-614-8,2013,220.36,284,This is a fascinating book about political landscape of the Middle East
+964,1,The Literature Book 964,978-977-155-255-8,2023,106.28,809,This is a fascinating book about Egyptian literature and culture
+965,5,Children Stories 965,978-977-159-815-7,2023,239.42,977,This is a fascinating book about children education and entertainment
+966,6,Philosophy Thoughts 966,978-977-302-428-4,2015,206.2,927,This is a fascinating book about philosophical thinking in Arabic culture
+967,8,Economy of Egypt 967,978-977-335-721-8,2015,110.73,363,This is a fascinating book about economic development in Egypt
+968,12,Medical Guide 968,978-977-709-267-8,2013,166.73,959,This is a fascinating book about medical advancements in Egypt
+969,2,History of Egypt 969,978-977-791-668-6,2019,231.07,938,This is a fascinating book about ancient and modern Egyptian history
+970,6,Philosophy Thoughts 970,978-977-358-182-9,2006,54.56,670,This is a fascinating book about philosophical thinking in Arabic culture
+971,14,Agriculture Guide 971,978-977-644-788-8,2012,103.93,151,This is a fascinating book about agriculture in the Nile Valley
+972,13,Egyptian Law 972,978-977-468-348-1,2014,143.26,868,This is a fascinating book about legal system in Egypt
+973,14,Agriculture Guide 973,978-977-404-203-8,2018,79.62,669,This is a fascinating book about agriculture in the Nile Valley
+974,12,Medical Guide 974,978-977-915-777-6,2007,55.39,540,This is a fascinating book about medical advancements in Egypt
+975,19,Travel Egypt 975,978-977-504-675-5,2000,187.08,312,This is a fascinating book about travel destinations in Egypt
+976,9,Political Analysis 976,978-977-406-148-5,2006,80.22,678,This is a fascinating book about political landscape of the Middle East
+977,11,Engineering Principles 977,978-977-717-197-4,2021,63.96,885,This is a fascinating book about modern engineering in Egypt
+978,3,Islamic Studies 978,978-977-818-326-9,2001,218.51,507,This is a fascinating book about religious studies and traditions
+979,9,Political Analysis 979,978-977-179-469-9,2008,205.27,440,This is a fascinating book about political landscape of the Middle East
+980,2,History of Egypt 980,978-977-961-270-2,2004,211.03,929,This is a fascinating book about ancient and modern Egyptian history
+981,17,Chemistry Today 981,978-977-833-936-9,2013,60.43,727,This is a fascinating book about chemistry in daily life
+982,9,Political Analysis 982,978-977-950-585-4,2003,96.15,170,This is a fascinating book about political landscape of the Middle East
+983,13,Egyptian Law 983,978-977-400-477-3,2018,78.57,313,This is a fascinating book about legal system in Egypt
+984,16,Physics Explained 984,978-977-407-251-2,2020,246.44,267,This is a fascinating book about physics and astronomy
+985,20,Sports in Egypt 985,978-977-525-968-6,2000,154.3,428,This is a fascinating book about sports and athletics in Egypt
+986,6,Philosophy Thoughts 986,978-977-367-558-2,2002,94.04,784,This is a fascinating book about philosophical thinking in Arabic culture
+987,4,Science & Nature 987,978-977-171-176-9,2017,182.97,957,This is a fascinating book about scientific discoveries in Egypt
+988,20,Sports in Egypt 988,978-977-470-963-3,2023,225.45,449,This is a fascinating book about sports and athletics in Egypt
+989,14,Agriculture Guide 989,978-977-831-164-7,2021,218.85,115,This is a fascinating book about agriculture in the Nile Valley
+990,20,Sports in Egypt 990,978-977-908-993-5,2011,76.1,479,This is a fascinating book about sports and athletics in Egypt
+991,8,Economy of Egypt 991,978-977-881-953-9,2015,204.99,233,This is a fascinating book about economic development in Egypt
+992,2,History of Egypt 992,978-977-963-780-1,2021,88.48,651,This is a fascinating book about ancient and modern Egyptian history
+993,15,Mathematics Basics 993,978-977-682-561-7,2006,83.38,190,This is a fascinating book about mathematical concepts
+994,15,Mathematics Basics 994,978-977-770-197-8,2005,59.99,601,This is a fascinating book about mathematical concepts
+995,13,Egyptian Law 995,978-977-507-217-2,2022,113.27,585,This is a fascinating book about legal system in Egypt
+996,17,Chemistry Today 996,978-977-951-219-2,2001,196.78,517,This is a fascinating book about chemistry in daily life
+997,8,Economy of Egypt 997,978-977-696-246-1,2017,75.45,671,This is a fascinating book about economic development in Egypt
+998,13,Egyptian Law 998,978-977-136-332-9,2007,168.56,115,This is a fascinating book about legal system in Egypt
+999,9,Political Analysis 999,978-977-983-446-3,2021,66.5,432,This is a fascinating book about political landscape of the Middle East
+1000,16,Physics Explained 1000,978-977-244-192-7,2014,133.67,184,This is a fascinating book about physics and astronomy
