@@ -20,7 +20,7 @@ CSV files ──► Bronze (raw) ──► Silver (clean) ──► Gold (star s
 
 ## Star Schema
 
-![Star Schema](docs/star_schema_BookStore_dwh.png)
+![Star Schema](star_schema_BookStore_dwh.png)
 
 | Table | Type | Description |
 |-------|------|-------------|
